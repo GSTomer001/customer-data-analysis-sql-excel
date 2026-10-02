@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Customer Data Analysis Using SQL &amp; Excel | Gopal Singh Tomer</title>
+  <meta name="description"
+    content="Customer behaviour analysis on a relational MySQL model: 15 SQL queries covering joins, GROUP BY/HAVING, subqueries and window functions, plus an Excel workbook with VLOOKUP/XLOOKUP and pivot-style summaries." />
+  <meta name="author" content="Gopal Singh Tomer" />
+  <link rel="stylesheet" href="assets/style.css" />
+</head>
+
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <h1>Customer Data Analysis Using SQL &amp; Excel</h1>
+      <p>Relational model (customers &middot; products &middot; orders &middot; order_items) &middot; MySQL + Excel &middot; 15 analysis queries</p>
+    </div>
+    <nav class="links">
+      <a href="https://github.com/GSTomer001/customer-data-analysis-sql-excel" target="_blank" rel="noopener">Source code</a>
+      <a href="https://github.com/GSTomer001" target="_blank" rel="noopener">GitHub</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="kpis" id="kpis"></section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Data model</h2>
+        <span class="muted">Star-style schema used by every query</span>
+      </div>
+      <p class="muted" id="modelNote"></p>
+      <div class="table-wrap">
+        <table id="schemaTable">
+          <thead>
+            <tr>
+              <th>Table</th>
+              <th>Type</th>
+              <th class="num">Rows (clean)</th>
+              <th>Columns</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <div class="grid-2">
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Revenue by customer segment</h2>
+          <span class="muted">GROUP BY + aggregate functions</span>
+        </div>
+        <div class="chart"><canvas id="segmentChart"></canvas></div>
+      </section>
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Customer value tiers</h2>
+          <span class="muted">CASE WHEN bucketing over a subquery</span>
+        </div>
+        <div class="chart"><canvas id="tierChart"></canvas></div>
+      </section>
+    </div>
+
+    <div class="grid-2">
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Revenue by state</h2>
+          <span class="muted">GROUP BY with a share-of-total subquery</span>
+        </div>
+        <div class="chart"><canvas id="stateChart"></canvas></div>
+      </section>
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Category performance</h2>
+          <span class="muted">JOIN order_items &rarr; products</span>
+        </div>
+        <div class="chart"><canvas id="categoryChart"></canvas></div>
+      </section>
+    </div>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Monthly revenue trend</h2>
+        <span class="muted">Window function: running total</span>
+      </div>
+      <div class="chart chart-wide"><canvas id="trendChart"></canvas></div>
+    </section>
+
+    <div class="grid-2">
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Revenue by channel and year</h2>
+          <span class="muted">CASE WHEN pivot</span>
+        </div>
+        <div class="chart"><canvas id="channelYearChart"></canvas></div>
+      </section>
+      <section class="panel">
+        <div class="panel-head">
+          <h2>Order status mix per channel</h2>
+          <span class="muted">Conditional aggregation</span>
+        </div>
+        <div class="chart"><canvas id="statusChart"></canvas></div>
+      </section>
+    </div>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Top 10 customers by lifetime revenue</h2>
+        <span class="muted">Multi-table JOIN + ORDER BY + LIMIT</span>
+      </div>
+      <div class="table-wrap">
+        <table id="topCustomers">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>SQL query explorer</h2>
+        <span class="muted">Every query in <code>sql/02_analysis_queries.sql</code> with its live result</span>
+      </div>
+      <div id="queryList" class="queries"></div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Excel deliverable</h2>
+        <span class="muted">excel/customer_analysis.xlsx</span>
+      </div>
+      <div class="table-wrap">
+        <table id="excelTable">
+          <thead>
+            <tr>
+              <th>Sheet</th>
+              <th>What it demonstrates</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+      <p class="muted" style="margin-top:10px">
+        The workbook is generated by <code>scripts/analysis.py</code> with openpyxl, so the
+        lookup columns and summary sheets are rebuilt every time the pipeline runs.
+      </p>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Data quality report</h2>
+        <span class="muted">Raw CRM extract vs cleaned tables</span>
+      </div>
+      <div class="table-wrap">
+        <table id="qualityTable">
+          <thead>
+            <tr>
+              <th>Check</th>
+              <th class="num">Value</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>
+      Built by <strong>Gopal Singh Tomer</strong> &middot; SQL (MySQL) &middot; Microsoft Excel
+      (VLOOKUP / XLOOKUP, pivot-style summaries, conditional formatting) &middot; Python automation.
+    </p>
+    <p class="muted">
+      The report executes on SQLite so it needs no database server; the identical SQL also ships as
+      MySQL DDL and queries in <code>sql/01_schema_mysql.sql</code> and
+      <code>sql/02_analysis_queries.sql</code>.
+    </p>
+  </footer>
+
+  <script src="assets/chart.umd.min.js"></script>
+  <script src="assets/report_data.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,310 @@
+customer_id,first_name,last_name,city,state,country,signup_date,segment,loyalty_tier,email,phone
+CUST1038,Saanvi,Bose,Chennai,Tamil Nadu,India,2022-06-15,Consumer,Silver,saanvi.bose@example.com,+91 9312001319
+CUST1172,Diya,Nair,Chennai,Tamil Nadu,India,2023-07-13,Consumer,Bronze,diya.nair@example.com,+91 9486129351
+CUST1278,Rahul,Singh,Madurai,Tamil Nadu,India,2023-10-23,Consumer,Bronze,rahul.singh@example.com,+91 7762933403
+CUST1061,Riya,Joshi,Nagpur,Maharashtra,India,2023-10-04,SMB,Bronze,riya.joshi@example.com,+91 7577217991
+CUST1154,Diya,Verma,,Uttar Pradesh,India,2022-09-07,Corporate,Platinum,diya.verma@example.com,+91 7880180978
+CUST1177,Tanya,Rao,Lucknow,Uttar Pradesh,India,2024-08-06,Corporate,Platinum,tanya.rao@example.com,+91 9358808733
+CUST1031,Tanya,Verma,Madurai,Tamil Nadu,India,2022-02-08,Corporate,Platinum,tanya.verma@example.com,+91 9768025897
+CUST1100,Diya,Rao,Kanpur,Uttar Pradesh,India,2023-04-18,Consumer,Silver,,+91 8879078059
+CUST1142,Rohan,Mehta,Siliguri,West Bengal,India,2022-06-13,SMB,Silver,rohan.mehta@example.com,+91 8419652678
+CUST1127,Diya,Das,Lucknow,Uttar Pradesh,India,2024-09-15,Corporate,Bronze,diya.das@example.com,+91 7770838371
+CUST1071,Meera,Chauhan,Lucknow,Uttar Pradesh,India,2024-06-20,Consumer,Gold,meera.chauhan@example.com,+91 8099489031
+CUST1205,Aryan,Bose,Kolkata,West Bengal,India,2023-12-13,Corporate,Platinum,aryan.bose@example.com,+91 7694026531
+CUST1215,Ishaan,Bose,Pune,Maharashtra,India,2023-06-11,Consumer,Platinum,ishaan.bose@example.com,+91 9582522681
+CUST1264,Neha,Singh,Coimbatore,Tamil Nadu,India,2022-04-12,Consumer,Silver,neha.singh@example.com,+91 8475196155
+CUST1075,Ishaan,Joshi,Mysuru,Karnataka,India,2022-06-25,Corporate,Gold,ishaan.joshi@example.com,+91 8963726054
+CUST1089,Yash,Gupta,Kolkata,West Bengal,India,2024-05-24,Consumer,Gold,yash.gupta@example.com,+91 8477410868
+CUST1162,Kabir,Sharma,Mumbai,Maharashtra,India,2022-02-18,Corporate,Bronze,kabir.sharma@example.com,+91 9642184174
+CUST1160,Meera,Chauhan,Gurugram,Delhi,India,2025-01-02,Consumer,Platinum,meera.chauhan@example.com,+91 7828585640
+CUST1116,Nisha,Nair,,Karnataka,India,2023-08-05,Consumer,Gold,,+91 7972751186
+CUST1149,Diya,Chauhan,Chennai,Tamil Nadu,India,2022-10-20,Corporate,Bronze,diya.chauhan@example.com,+91 8957876049
+CUST1004,Rahul,Bose,Agra,Uttar Pradesh,India,2022-08-10,Consumer,Silver,rahul.bose@example.com,+91 7965824100
+CUST1213,Harsh,Singh,Noida,Delhi,India,2023-04-04,Consumer,Bronze,harsh.singh@example.com,+91 9499255164
+CUST1095,Ishaan,Gupta,Pune,Maharashtra,India,2022-10-31,Consumer,Bronze,ishaan.gupta@example.com,+91 7692172025
+CUST1200,Ananya,Patel,Noida,Delhi,India,2023-12-17,Corporate,Bronze,ananya.patel@example.com,+91 9329094569
+CUST1066,Saanvi,Verma,Gurugram,Delhi,India,2024-06-19,Corporate,Gold,saanvi.verma@example.com,+91 8569867524
+CUST1194,Kabir,Rao,New Delhi,Delhi,India,2024-06-26,SMB,Bronze,kabir.rao@example.com,+91 8256115199
+CUST1169,Rohan,Bose,Bengaluru,Karnataka,India,2023-09-09,Consumer,Bronze,rohan.bose@example.com,+91 7589510885
+CUST1085,Meera,Mishra,Mumbai,Maharashtra,India,2023-06-21,Consumer,Platinum,meera.mishra@example.com,+91 8475270702
+CUST1015,Kabir,Rao,Mysuru,Karnataka,India,2023-02-13,Consumer,Silver,kabir.rao@example.com,+91 8442655362
+CUST1243,Vikram,Chauhan,Agra,Uttar Pradesh,India,2023-10-01,Corporate,Silver,vikram.chauhan@example.com,+91 7617957495
+CUST1058,Saanvi,Mehta,Madurai,Tamil Nadu,India,2022-05-21, consumer ,Bronze,saanvi.mehta@example.com,+91 8526834673
+CUST1250,Vikram,Iyer,Howrah,West Bengal,India,2022-01-19,Consumer,Gold,vikram.iyer@example.com,+91 9265615170
+CUST1298,Vikram,Chauhan,Madurai,Tamil Nadu,India,2023-10-27,Corporate,Bronze,vikram.chauhan@example.com,+91 8673636194
+CUST1255,Simran,Gupta,Kanpur,Uttar Pradesh,India,2023-07-25,Consumer,Silver,simran.gupta@example.com,+91 7963672567
+CUST1087,Meera,Iyer,Lucknow,Uttar Pradesh,India,2022-10-25,Corporate,Bronze,meera.iyer@example.com,+91 8261564140
+CUST1074,Riya,Patel,Bengaluru,Karnataka,India,2024-07-11,Corporate,Silver,riya.patel@example.com,+91 8941723081
+CUST1130,Tanya,Singh,Mangaluru,Karnataka,India,2024-01-25,SMB,Bronze,tanya.singh@example.com,+91 8316219167
+CUST1081,Harsh,Mishra,Madurai,Tamil Nadu,India,2022-05-13,Corporate,Bronze,harsh.mishra@example.com,+91 9781130711
+CUST1265,Ananya,Singh,Agra,Uttar Pradesh,India,2025-02-16,Consumer,Silver,ananya.singh@example.com,+91 7523036530
+CUST1003,Tanya,Rao,Siliguri,West Bengal,India,2022-08-26,Consumer,Silver,tanya.rao@example.com,+91 7019456100
+CUST1139,Riya,Verma,Agra,Uttar Pradesh,India,2023-04-05,Corporate,Silver,riya.verma@example.com,+91 7172894010
+CUST1283,Rohan,Joshi,Madurai,Tamil Nadu,India,2023-01-24,Corporate,Bronze,rohan.joshi@example.com,+91 9188218104
+CUST1257,Riya,Das,New Delhi,Delhi,India,2022-03-07,Consumer,Bronze,riya.das@example.com,+91 8198271574
+CUST1175,Vivaan,Reddy,Noida,Delhi,India,2022-05-01,Consumer,Silver,vivaan.reddy@example.com,+91 7260466648
+CUST1274,Neha,Mehta,Lucknow,Uttar Pradesh,India,2023-06-28,Consumer,Silver,neha.mehta@example.com,+91 9089142248
+CUST1203,Ishaan,Kulkarni,,Delhi,India,2024-10-09,Corporate,Silver,ishaan.kulkarni@example.com,+91 7766133818
+CUST1208,Ananya,Bose,Chennai,Tamil Nadu,India,2023-09-10,SMB,Silver,ananya.bose@example.com,+91 7986797220
+CUST1288,Rahul,Verma,Kanpur,Uttar Pradesh,India,2024-11-20,Consumer,Silver,rahul.verma@example.com,+91 7181236723
+CUST1058,Saanvi,Mehta,Madurai,Tamil Nadu,India,2022-05-21, consumer ,Bronze,saanvi.mehta@example.com,+91 8526834673
+CUST1123,Tanya,Joshi,Mangaluru,Karnataka,India,2022-11-09,Consumer,Bronze,tanya.joshi@example.com,+91 8280250218
+CUST1222,Aryan,Chauhan,Kolkata,West Bengal,India,2024-04-23,SMB,Platinum,aryan.chauhan@example.com,+91 9276433911
+CUST1103,Kabir,Iyer,Coimbatore,Tamil Nadu,India,2023-09-10,Consumer,Silver,kabir.iyer@example.com,+91 7379718865
+CUST1067,Nisha,Iyer,Gurugram,Delhi,India,2024-10-22,Consumer,Bronze,nisha.iyer@example.com,+91 7925346249
+CUST1189,Rohan,Gupta,Mysuru,Karnataka,India,2023-02-11,Consumer,Silver,rohan.gupta@example.com,+91 7297239624
+CUST1218,Diya,Gupta,Mysuru,Karnataka,India,2022-12-05,Consumer,Bronze,diya.gupta@example.com,+91 8394240648
+CUST1102,Saanvi,Das,Mangaluru,Karnataka,India,2022-09-30,Consumer,Silver,saanvi.das@example.com,+91 7550048080
+CUST1019,Yash,Sharma,New Delhi,Delhi,India,2023-02-15,Corporate,Silver,,+91 8048944192
+CUST1082,Rohan,Nair,Mumbai,Maharashtra,India,2023-01-12,Consumer,Bronze,rohan.nair@example.com,+91 7280069901
+CUST1279,Manish,Das,Kanpur,Uttar Pradesh,India,2024-07-02,SMB,Gold,manish.das@example.com,+91 7345579787
+CUST1237,Ananya,Reddy,Agra,Uttar Pradesh,India,2023-06-29,Consumer,Bronze,ananya.reddy@example.com,+91 7830218217
+CUST1056,Rahul,Verma,Agra,Uttar Pradesh,India,2025-03-31,SMB,Gold,rahul.verma@example.com,+91 9385578612
+CUST1182,Yash,Patel,Noida,Delhi,India,2024-04-29,Consumer,Bronze,yash.patel@example.com,+91 8955970771
+CUST1223,Harsh,Joshi,Kolkata,West Bengal,India,2024-08-18,SMB,Silver,harsh.joshi@example.com,+91 9432753498
+CUST1211,Yash,Singh,Siliguri,West Bengal,India,2022-07-24, consumer ,Gold,yash.singh@example.com,+91 7898716082
+CUST1148,Aryan,Mishra,Coimbatore,Tamil Nadu,India,2025-02-03,Consumer,Platinum,aryan.mishra@example.com,+91 8358147451
+CUST1236,Rahul,Mehta,New Delhi,Delhi,India,2023-02-07,Consumer,Gold,rahul.mehta@example.com,+91 9446291810
+CUST1195,Neha,Joshi,Kolkata,West Bengal,India,2024-07-29,Consumer,Silver,neha.joshi@example.com,+91 7940408527
+CUST1023,Vivaan,Das,Bengaluru,Karnataka,India,2022-05-04,Consumer,Silver,vivaan.das@example.com,+91 9822059723
+CUST1091,Ananya,Singh,New Delhi,Delhi,India,2025-02-01,Consumer,Silver,ananya.singh@example.com,+91 7823929178
+CUST1129,Rahul,Bose,Chennai,Tamil Nadu,India,2024-04-26,Consumer,Silver,rahul.bose@example.com,+91 8781808535
+CUST1284,Nisha,Rao,Chennai,Tamil Nadu,India,2022-09-24,Consumer,Silver,nisha.rao@example.com,+91 9240087364
+CUST1126,Vivaan,Gupta,,West Bengal,India,2022-12-06,Consumer,Bronze,vivaan.gupta@example.com,+91 7051147811
+CUST1151,Neha,Bose,,Uttar Pradesh,India,2024-03-24,Consumer,Bronze,neha.bose@example.com,+91 9186742244
+CUST1092,Vivaan,Das,Siliguri,West Bengal,India,2025-04-09,Consumer,Gold,vivaan.das@example.com,+91 7837147925
+CUST1297,Kabir,Singh,New Delhi,Delhi,India,2022-05-11,Consumer,Bronze,,+91 9332170694
+CUST1262,Yash,Iyer,Agra,Uttar Pradesh,India,2024-05-27,Consumer,Silver,yash.iyer@example.com,+91 8023986634
+CUST1146,Kabir,Verma,Kanpur,Uttar Pradesh,India,2025-03-21,Corporate,Silver,kabir.verma@example.com,+91 7299218993
+CUST1128,Sneha,Verma,Noida,Delhi,India,2023-09-12,Consumer,Gold,sneha.verma@example.com,+91 7399104064
+CUST1238,Rohan,Kulkarni,Bengaluru,Karnataka,India,2024-03-14,Consumer,Silver,rohan.kulkarni@example.com,+91 7245490913
+CUST1241,Aryan,Gupta,Kanpur,Uttar Pradesh,India,2022-02-21,Corporate,Silver,aryan.gupta@example.com,+91 9011076268
+CUST1025,Neha,Reddy,Siliguri,West Bengal,India,2025-03-09,Consumer,Bronze,neha.reddy@example.com,+91 7283755438
+CUST1115,Pooja,Reddy,Mysuru,Karnataka,India,2023-12-30,Consumer,Bronze,pooja.reddy@example.com,+91 9789559442
+CUST1289,Manish,Singh,Bengaluru,Karnataka,India,2023-09-09,SMB,Bronze,manish.singh@example.com,+91 7599322470
+CUST1063,Pooja,Gupta,Mangaluru,Karnataka,India,2025-02-14,SMB,Bronze,pooja.gupta@example.com,+91 8756695750
+CUST1249,Rahul,Reddy,Gurugram,Delhi,India,2024-08-16,SMB,Silver,rahul.reddy@example.com,+91 9575630607
+CUST1079,Kabir,Das,Madurai,Tamil Nadu,India,2022-07-04,Consumer,Gold,kabir.das@example.com,+91 7211045864
+CUST1105,Aryan,Mishra,New Delhi,Delhi,India,2023-05-25,SMB,Bronze,aryan.mishra@example.com,+91 8099478227
+CUST1051,Tanya,Reddy,Gurugram,Delhi,India,2022-11-04,SMB,Gold,tanya.reddy@example.com,+91 7351650418
+CUST1221,Yash,Mishra,Chennai,Tamil Nadu,India,2023-07-08,Consumer,Silver,yash.mishra@example.com,+91 7967347979
+CUST1119,Kavya,Mehta,Bengaluru,Karnataka,India,2022-07-17,Consumer,Silver,kavya.mehta@example.com,+91 8851503412
+CUST1053,Manish,Patel,Lucknow,Uttar Pradesh,India,2023-06-06,Corporate,Bronze,manish.patel@example.com,+91 7482049596
+CUST1062,Meera,Mehta,Mangaluru,Karnataka,India,2023-11-21,Consumer,Silver,meera.mehta@example.com,+91 8372769034
+CUST1280,Pooja,Gupta,Agra,Uttar Pradesh,India,2022-03-30,CONSUMER,Bronze,pooja.gupta@example.com,+91 8176000631
+CUST1290,Riya,Bose,Mangaluru,Karnataka,India,2022-08-26,Consumer,Silver,riya.bose@example.com,+91 7759509719
+CUST1029,Ananya,Patel,,Karnataka,India,2024-07-12,SMB,Silver,ananya.patel@example.com,+91 9098579936
+CUST1070,Riya,Bose,Siliguri,West Bengal,India,2025-01-02, consumer ,Silver,riya.bose@example.com,+91 8481507010
+CUST1037,Simran,Sharma,Howrah,West Bengal,India,2024-08-10,SMB,Bronze,simran.sharma@example.com,+91 7845568815
+CUST1041,Neha,Bose,Mangaluru,Karnataka,India,2025-01-15, smb ,Bronze,neha.bose@example.com,+91 9781795867
+CUST1271,Harsh,Gupta,Nagpur,Maharashtra,India,2024-01-26,Corporate,Gold,harsh.gupta@example.com,+91 9486241760
+CUST1012,Rohan,Gupta,Agra,Uttar Pradesh,India,2023-06-18, corporate ,Bronze,rohan.gupta@example.com,+91 9834775115
+CUST1269,Meera,Bose,Gurugram,Delhi,India,2022-02-14,Consumer,Gold,meera.bose@example.com,+91 9044350966
+CUST1254,Pooja,Chauhan,Mumbai,Maharashtra,India,2023-07-17,Consumer,Silver,pooja.chauhan@example.com,+91 8048442228
+CUST1285,Diya,Bose,Kolkata,West Bengal,India,2022-01-14,Consumer,Silver,diya.bose@example.com,+91 7317852339
+CUST1161,Ishaan,Sharma,Coimbatore,Tamil Nadu,India,2024-08-08,Corporate,Gold,ishaan.sharma@example.com,+91 9321987020
+CUST1112,Saanvi,Chauhan,New Delhi,Delhi,India,2022-07-31,Corporate,Silver,saanvi.chauhan@example.com,+91 8692255282
+CUST1099,Vivaan,Patel,Madurai,Tamil Nadu,India,2022-03-16,Corporate,Bronze,vivaan.patel@example.com,+91 9462732166
+CUST1171,Tanya,Reddy,Kanpur,Uttar Pradesh,India,2025-01-01,Consumer,Gold,tanya.reddy@example.com,+91 7365357785
+CUST1047,Kabir,Bose,New Delhi,Delhi,India,2024-12-30,Consumer,Bronze,,+91 7546260918
+CUST1140,Pooja,Joshi,Nagpur,Maharashtra,India,2022-08-04,Consumer,Platinum,pooja.joshi@example.com,+91 7638408870
+CUST1282,Vikram,Patel,Kolkata,West Bengal,India,2023-12-13, smb ,Bronze,vikram.patel@example.com,+91 8954722646
+CUST1133,Ishaan,Patel,Noida,Delhi,India,2025-04-08,Consumer,Silver,ishaan.patel@example.com,+91 7619215904
+CUST1207,Tanya,Verma,Gurugram,Delhi,India,2022-12-19,Consumer,Silver,tanya.verma@example.com,+91 9368257742
+CUST1109,Tanya,Chauhan,Madurai,Tamil Nadu,India,2024-10-07,SMB,Gold,tanya.chauhan@example.com,+91 9812321077
+CUST1067,Nisha,Iyer,Gurugram,Delhi,India,2024-10-22,Consumer,Bronze,nisha.iyer@example.com,+91 7925346249
+CUST1155,Vivaan,Chauhan,Chennai,Tamil Nadu,India,2024-06-02,Corporate,Gold,vivaan.chauhan@example.com,+91 7889844187
+CUST1296,Sneha,Sharma,Mangaluru,Karnataka,India,2024-04-28,Consumer,Silver,sneha.sharma@example.com,+91 9871766815
+CUST1016,Rohan,Singh,Howrah,West Bengal,India,2023-05-19,Corporate,Silver,rohan.singh@example.com,+91 9281164752
+CUST1114,Riya,Singh,Siliguri,West Bengal,India,2024-10-29,Consumer,Bronze,riya.singh@example.com,+91 7198661266
+CUST1008,Vikram,Verma,Nagpur,Maharashtra,India,2024-06-28,Consumer,Bronze,vikram.verma@example.com,+91 7742568343
+CUST1270,Aarav,Gupta,Agra,Uttar Pradesh,India,2025-01-23,Consumer,Silver,aarav.gupta@example.com,+91 9149774975
+CUST1156,Simran,Joshi,Kanpur,Uttar Pradesh,India,2023-08-31, consumer ,Platinum,simran.joshi@example.com,+91 9194595054
+CUST1214,Simran,Joshi,Chennai,Tamil Nadu,India,2023-11-22,Consumer,Gold,simran.joshi@example.com,+91 9366240305
+CUST1294,Aarav,Bose,Gurugram,Delhi,India,2024-06-19,Consumer,Silver,aarav.bose@example.com,+91 7937013404
+CUST1209,Riya,Rao,Bengaluru,Karnataka,India,2022-12-02,Consumer,Gold,riya.rao@example.com,+91 7022558076
+CUST1090,Vikram,Reddy,Chennai,Tamil Nadu,India,2022-03-10,Corporate,Silver,,+91 7548906222
+CUST1224,Aarav,Gupta,Agra,Uttar Pradesh,India,2024-02-12,Consumer,Bronze,aarav.gupta@example.com,+91 7458775505
+CUST1098,Aryan,Sharma,Madurai,Tamil Nadu,India,2022-10-23,Consumer,Silver,aryan.sharma@example.com,+91 9884805377
+CUST1275,Yash,Joshi,Gurugram,Delhi,India,2022-05-23,SMB,Silver,yash.joshi@example.com,+91 7469102311
+CUST1009,Pooja,Reddy,New Delhi,Delhi,India,2023-01-22,Consumer,Silver,pooja.reddy@example.com,+91 8454519380
+CUST1028,Riya,Reddy,Bengaluru,Karnataka,India,2024-05-15,Corporate,Silver,riya.reddy@example.com,+91 7788452889
+CUST1273,Vikram,Rao,Mumbai,Maharashtra,India,2025-01-01,Consumer,Bronze,vikram.rao@example.com,+91 8977810213
+CUST1059,Aditya,Patel,Mangaluru,Karnataka,India,2022-08-03,CONSUMER,Gold,,+91 9684070582
+CUST1229,Aarav,Patel,Nagpur,Maharashtra,India,2022-09-29,Consumer,Silver,aarav.patel@example.com,+91 9731851808
+CUST1173,Ananya,Nair,Coimbatore,Tamil Nadu,India,2024-10-23,Consumer,Bronze,ananya.nair@example.com,+91 8867681186
+CUST1232,Tanya,Nair,Kolkata,West Bengal,India,2024-04-10,Corporate,Bronze,tanya.nair@example.com,+91 8989267660
+CUST1032,Rohan,Bose,Coimbatore,Tamil Nadu,India,2024-09-23,Consumer,Bronze,rohan.bose@example.com,+91 7629911517
+CUST1002,Aryan,Chauhan,Chennai,Tamil Nadu,India,2024-02-09,Corporate,Silver,aryan.chauhan@example.com,+91 8841913747
+CUST1164,Vivaan,Mehta,Agra,Uttar Pradesh,India,2023-01-14,Consumer,Platinum,vivaan.mehta@example.com,+91 8087832479
+CUST1014,Nisha,Nair,New Delhi,Delhi,India,2023-03-30,Consumer,Gold,nisha.nair@example.com,+91 7998764603
+CUST1010,Pooja,Gupta,Pune,Maharashtra,India,2024-05-15,Consumer,Gold,pooja.gupta@example.com,+91 7320608552
+CUST1287,Neha,Chauhan,Kanpur,Uttar Pradesh,India,2022-12-08,Consumer,Silver,neha.chauhan@example.com,+91 9462106774
+CUST1096,Meera,Reddy,Chennai,Tamil Nadu,India,2025-01-04,Corporate,Silver,meera.reddy@example.com,+91 9745325026
+CUST1035,Aditya,Verma,,West Bengal,India,2023-03-13,Corporate,Bronze,aditya.verma@example.com,+91 7193376117
+CUST1097,Kavya,Verma,Howrah,West Bengal,India,2024-03-03, corporate ,Gold,kavya.verma@example.com,+91 7411709730
+CUST1300,Saanvi,Gupta,Kanpur,Uttar Pradesh,India,2024-08-26,CORPORATE,Silver,saanvi.gupta@example.com,+91 8174977075
+CUST1185,Rahul,Das,Madurai,Tamil Nadu,India,2024-04-20,Consumer,Bronze,rahul.das@example.com,+91 9859729078
+CUST1180,Aryan,Rao,Nagpur,Maharashtra,India,2024-07-02,SMB,Platinum,aryan.rao@example.com,+91 8129759295
+CUST1239,Tanya,Gupta,Agra,Uttar Pradesh,India,2023-05-16,Consumer,Platinum,tanya.gupta@example.com,+91 7950417647
+CUST1277,Rohan,Singh,Lucknow,Uttar Pradesh,India,2022-03-24,Corporate,Gold,rohan.singh@example.com,+91 7760887823
+CUST1046,Harsh,Rao,Coimbatore,Tamil Nadu,India,2024-05-05,Corporate,Silver,harsh.rao@example.com,+91 8026974517
+CUST1115,Pooja,Reddy,Mysuru,Karnataka,India,2023-12-30,Consumer,Bronze,pooja.reddy@example.com,+91 9789559442
+CUST1033,Rohan,Rao,Chennai,Tamil Nadu,India,2022-10-30,Consumer,Platinum,rohan.rao@example.com,+91 8943338215
+CUST1078,Yash,Singh,,West Bengal,India,2023-07-23,Consumer,Bronze,yash.singh@example.com,+91 8455066537
+CUST1233,Kavya,Bose,Siliguri,West Bengal,India,2022-10-10,SMB,Silver,kavya.bose@example.com,+91 7724146356
+CUST1134,Vivaan,Das,Mangaluru,Karnataka,India,2023-04-20,Consumer,Silver,vivaan.das@example.com,+91 8427565798
+CUST1145,Neha,Reddy,Mysuru,Karnataka,India,2023-10-15,Consumer,Bronze,neha.reddy@example.com,+91 9258183635
+CUST1157,Riya,Singh,Agra,Uttar Pradesh,India,2023-06-15,Consumer,Bronze,riya.singh@example.com,+91 9816383330
+CUST1064,Meera,Chauhan,Nagpur,Maharashtra,India,2023-06-20,Consumer,Silver,meera.chauhan@example.com,+91 7869580857
+CUST1083,Riya,Das,Agra,Uttar Pradesh,India,2023-04-13,Consumer,Silver,riya.das@example.com,+91 9175293245
+CUST1244,Ananya,Chauhan,Chennai,Tamil Nadu,India,2024-07-12,SMB,Platinum,ananya.chauhan@example.com,+91 9517939688
+CUST1226,Saanvi,Mehta,New Delhi,Delhi,India,2025-02-14,SMB,Silver,saanvi.mehta@example.com,+91 8174669652
+CUST1235,Saanvi,Das,Madurai,Tamil Nadu,India,2024-05-12,Corporate,Gold,saanvi.das@example.com,+91 7048468067
+CUST1042,Aarav,Iyer,Pune,Maharashtra,India,2025-04-06,Consumer,Silver,,+91 7331028948
+CUST1174,Ananya,Chauhan,Coimbatore,Tamil Nadu,India,2024-11-23,Consumer,Platinum,ananya.chauhan@example.com,+91 9895395244
+CUST1165,Pooja,Iyer,Mumbai,Maharashtra,India,2023-02-10,Consumer,Platinum,pooja.iyer@example.com,+91 8098048646
+CUST1110,Manish,Singh,Pune,Maharashtra,India,2022-05-28,Consumer,Silver,manish.singh@example.com,+91 9050923362
+CUST1178,Manish,Singh,Mysuru,Karnataka,India,2024-09-21,Consumer,Bronze,manish.singh@example.com,+91 8956463661
+CUST1228,Ananya,Das,Lucknow,Uttar Pradesh,India,2023-06-05,Corporate,Bronze,ananya.das@example.com,+91 9766546767
+CUST1122,Vikram,Iyer,Coimbatore,Tamil Nadu,India,2022-11-16,Consumer,Gold,vikram.iyer@example.com,+91 8933101135
+CUST1052,Pooja,Gupta,Coimbatore,Tamil Nadu,India,2022-05-29,Consumer,Silver,pooja.gupta@example.com,+91 9031106922
+CUST1057,Rohan,Mishra,Siliguri,West Bengal,India,2022-05-09,SMB,Bronze,rohan.mishra@example.com,+91 7268269944
+CUST1245,Rahul,Kulkarni,Bengaluru,Karnataka,India,2022-06-05,SMB,Bronze,rahul.kulkarni@example.com,+91 9415925717
+CUST1159,Harsh,Rao,Nagpur,Maharashtra,India,2023-10-17,Consumer,Bronze,harsh.rao@example.com,+91 7024809716
+CUST1086,Neha,Kulkarni,Chennai,Tamil Nadu,India,2024-05-13,Consumer,Bronze,neha.kulkarni@example.com,+91 9362517271
+CUST1121,Kavya,Chauhan,Mysuru,Karnataka,India,2024-10-22,Consumer,Bronze,kavya.chauhan@example.com,+91 7174366319
+CUST1293,Kabir,Mishra,Noida,Delhi,India,2024-09-29,Consumer,Silver,kabir.mishra@example.com,+91 8598492052
+CUST1295,Rohan,Nair,Nagpur,Maharashtra,India,2025-01-24,Corporate,Bronze,rohan.nair@example.com,+91 8857819209
+CUST1260,Ishaan,Patel,Mangaluru,Karnataka,India,2023-09-20,Corporate,Silver,ishaan.patel@example.com,+91 8133822099
+CUST1231,Manish,Reddy,Coimbatore,Tamil Nadu,India,2022-01-03,Consumer,Bronze,manish.reddy@example.com,+91 9114140786
+CUST1210,Diya,Mehta,Lucknow,Uttar Pradesh,India,2022-04-20,Consumer,Platinum,diya.mehta@example.com,+91 9581385943
+CUST1088,Aryan,Das,Kanpur,Uttar Pradesh,India,2023-07-01,Corporate,Bronze,aryan.das@example.com,+91 8046430412
+CUST1166,Saanvi,Patel,Madurai,Tamil Nadu,India,2023-12-21,Consumer,Gold,saanvi.patel@example.com,+91 8842362204
+CUST1038,Saanvi,Bose,Chennai,Tamil Nadu,India,2022-06-15,Consumer,Silver,saanvi.bose@example.com,+91 9312001319
+CUST1250,Vikram,Iyer,Howrah,West Bengal,India,2022-01-19,Consumer,Gold,vikram.iyer@example.com,+91 9265615170
+CUST1106,Tanya,Das,Noida,Delhi,India,2022-02-09,Consumer,Silver,tanya.das@example.com,+91 8122730148
+CUST1242,Tanya,Verma,Noida,Delhi,India,2023-10-25,Consumer,Silver,tanya.verma@example.com,+91 7034908830
+CUST1183,Kabir,Reddy,Lucknow,Uttar Pradesh,India,2022-12-21,SMB,Bronze,kabir.reddy@example.com,+91 8318994885
+CUST1050,Nisha,Das,New Delhi,Delhi,India,2025-01-09,Corporate,Bronze,nisha.das@example.com,+91 8618103690
+CUST1217,Aarav,Gupta,Agra,Uttar Pradesh,India,2022-05-02,Consumer,Gold,aarav.gupta@example.com,+91 9412976554
+CUST1006,Tanya,Patel,Siliguri,West Bengal,India,2024-06-30,Consumer,Bronze,tanya.patel@example.com,+91 7790245918
+CUST1018,Sneha,Mishra,Kolkata,West Bengal,India,2022-02-10,Consumer,Bronze,sneha.mishra@example.com,+91 7862192237
+CUST1246,Yash,Mishra,Howrah,West Bengal,India,2022-03-20,SMB,Platinum,yash.mishra@example.com,+91 8844383596
+CUST1117,Meera,Joshi,Madurai,Tamil Nadu,India,2025-02-04,Consumer,Bronze,meera.joshi@example.com,+91 7585636854
+CUST1240,Saanvi,Mehta,Siliguri,West Bengal,India,2022-09-08,Consumer,Bronze,saanvi.mehta@example.com,+91 7963166835
+CUST1107,Ananya,Singh,Chennai,Tamil Nadu,India,2025-03-29,Corporate,Silver,ananya.singh@example.com,+91 9659666850
+CUST1188,Manish,Gupta,Coimbatore,Tamil Nadu,India,2024-06-01,Corporate,Silver,manish.gupta@example.com,+91 8534155567
+CUST1163,Rohan,Singh,Kolkata,West Bengal,India,2024-07-04,Corporate,Gold,rohan.singh@example.com,+91 8746756912
+CUST1135,Ananya,Mishra,Howrah,West Bengal,India,2025-02-07,CONSUMER,Platinum,ananya.mishra@example.com,+91 8832330289
+CUST1247,Ishaan,Joshi,Lucknow,Uttar Pradesh,India,2024-06-02,Corporate,Silver,ishaan.joshi@example.com,+91 8656963238
+CUST1191,Vivaan,Verma,Mysuru,Karnataka,India,2023-01-29,Consumer,Bronze,vivaan.verma@example.com,+91 7171470601
+CUST1065,Ishaan,Mehta,Agra,Uttar Pradesh,India,2025-01-17,Consumer,Gold,ishaan.mehta@example.com,+91 8936188242
+CUST1027,Vivaan,Gupta,Kanpur,Uttar Pradesh,India,2022-01-25,Consumer,Bronze,vivaan.gupta@example.com,+91 7565040841
+CUST1268,Meera,Verma,Pune,Maharashtra,India,2023-11-01,Consumer,Bronze,meera.verma@example.com,+91 8329830687
+CUST1170,Sneha,Verma,Lucknow,Uttar Pradesh,India,2022-10-11,SMB,Bronze,sneha.verma@example.com,+91 7010808716
+CUST1181,Manish,Rao,Siliguri,West Bengal,India,2024-09-27,Consumer,Bronze,manish.rao@example.com,+91 8837360708
+CUST1101,Simran,Mehta,Howrah,West Bengal,India,2024-06-12,SMB,Bronze,simran.mehta@example.com,+91 8284342259
+CUST1198,Aryan,Kulkarni,Gurugram,Delhi,India,2025-01-08,SMB,Silver,aryan.kulkarni@example.com,+91 7027520785
+CUST1136,Vikram,Mishra,Gurugram,Delhi,India,2024-08-06,Consumer,Gold,vikram.mishra@example.com,+91 8296375516
+CUST1291,Rohan,Nair,Howrah,West Bengal,India,2024-06-10,Consumer,Bronze,rohan.nair@example.com,+91 8341677905
+CUST1267,Kabir,Rao,New Delhi,Delhi,India,2023-04-28,Corporate,Silver,kabir.rao@example.com,+91 8453695784
+CUST1199,Vivaan,Bose,Kanpur,Uttar Pradesh,India,2024-10-01,Corporate,Bronze,vivaan.bose@example.com,+91 7266574629
+CUST1118,Diya,Nair,Agra,Uttar Pradesh,India,2022-08-09,Corporate,Gold,diya.nair@example.com,+91 7276134023
+CUST1167,Simran,Joshi,Noida,Delhi,India,2025-03-27,SMB,Gold,simran.joshi@example.com,+91 9534994545
+CUST1227,Ananya,Chauhan,Mysuru,Karnataka,India,2022-09-20,Consumer,Silver,ananya.chauhan@example.com,+91 8360586970
+CUST1137,Nisha,Joshi,Bengaluru,Karnataka,India,2022-08-07,Consumer,Bronze,nisha.joshi@example.com,+91 8577037822
+CUST1030,Tanya,Sharma,Coimbatore,Tamil Nadu,India,2023-04-03,Consumer,Platinum,tanya.sharma@example.com,+91 9276649090
+CUST1080,Neha,Chauhan,New Delhi,Delhi,India,2022-02-09,Consumer,Bronze,neha.chauhan@example.com,+91 8113164631
+CUST1205,Aryan,Bose,Kolkata,West Bengal,India,2023-12-13,Corporate,Platinum,aryan.bose@example.com,+91 7694026531
+CUST1141,Rohan,Mehta,Gurugram,Delhi,India,2022-10-31,Consumer,Bronze,rohan.mehta@example.com,+91 9645199494
+CUST1158,Kabir,Chauhan,Madurai,Tamil Nadu,India,2023-08-20,SMB,Bronze,kabir.chauhan@example.com,+91 8988020522
+CUST1132,Saanvi,Iyer,Mumbai,Maharashtra,India,2023-10-06,Corporate,Bronze,saanvi.iyer@example.com,+91 8231085885
+CUST1040,Sneha,Kulkarni,Agra,Uttar Pradesh,India,2024-07-01,Consumer,Bronze,sneha.kulkarni@example.com,+91 8249921320
+CUST1256,Rahul,Mishra,Mangaluru,Karnataka,India,2023-05-06,Consumer,Bronze,rahul.mishra@example.com,+91 7179457538
+CUST1206,Ananya,Joshi,Bengaluru,Karnataka,India,2022-07-06,Consumer,Bronze,ananya.joshi@example.com,+91 9450350265
+CUST1216,Aarav,Singh,Siliguri,West Bengal,India,2024-08-22,Consumer,Bronze,aarav.singh@example.com,+91 8478253755
+CUST1259,Yash,Mehta,Mysuru,Karnataka,India,2023-10-08,Consumer,Gold,yash.mehta@example.com,+91 7851380174
+CUST1055,Kabir,Mehta,Siliguri,West Bengal,India,2024-03-25,Corporate,Bronze,kabir.mehta@example.com,+91 7295075234
+CUST1299,Rahul,Mehta,Coimbatore,Tamil Nadu,India,2023-05-25,Corporate,Bronze,rahul.mehta@example.com,+91 8076117279
+CUST1201,Rohan,Joshi,Bengaluru,Karnataka,India,2025-03-11,Corporate,Gold,rohan.joshi@example.com,+91 8552982715
+CUST1044,Rohan,Nair,Noida,Delhi,India,2022-06-27,Corporate,Platinum,rohan.nair@example.com,+91 8270578335
+CUST1263,Vivaan,Singh,Kanpur,Uttar Pradesh,India,2025-02-24,Consumer,Bronze,vivaan.singh@example.com,+91 8776547243
+CUST1049,Aryan,Das,Mangaluru,Karnataka,India,2023-03-26,Corporate,Platinum,aryan.das@example.com,+91 9227026704
+CUST1036,Manish,Gupta,Howrah,West Bengal,India,2023-04-10,CONSUMER,Silver,manish.gupta@example.com,+91 9837166241
+CUST1060,Diya,Sharma,Chennai,Tamil Nadu,India,2022-08-01,SMB,Silver,diya.sharma@example.com,+91 9475528492
+CUST1144,Pooja,Verma,Mumbai,Maharashtra,India,2022-05-16,Consumer,Bronze,pooja.verma@example.com,+91 8210222593
+CUST1054,Vikram,Chauhan,Mangaluru,Karnataka,India,2022-04-21,Consumer,Gold,vikram.chauhan@example.com,+91 8783552142
+CUST1021,Saanvi,Reddy,Howrah,West Bengal,India,2023-06-04,SMB,Silver,saanvi.reddy@example.com,+91 8483953926
+CUST1125,Kavya,Gupta,Chennai,Tamil Nadu,India,2024-07-22,Consumer,Gold,kavya.gupta@example.com,+91 9558202290
+CUST1143,Kabir,Mehta,Noida,Delhi,India,2023-02-12,Consumer,Platinum,kabir.mehta@example.com,+91 7823585325
+CUST1111,Vikram,Sharma,Pune,Maharashtra,India,2022-07-21,Consumer,Gold,vikram.sharma@example.com,+91 7491587576
+CUST1286,Yash,Bose,Mangaluru,Karnataka,India,2022-08-23,SMB,Silver,yash.bose@example.com,+91 8821345044
+CUST1077,Manish,Patel,Chennai,Tamil Nadu,India,2022-11-07,CONSUMER,Gold,manish.patel@example.com,+91 7622548559
+CUST1281,Manish,Mishra,Howrah,West Bengal,India,2024-08-07,Consumer,Silver,manish.mishra@example.com,+91 7042703421
+CUST1272,Tanya,Singh,Bengaluru,Karnataka,India,2022-02-17,Consumer,Bronze,tanya.singh@example.com,+91 9334189046
+CUST1108,Aryan,Nair,Bengaluru,Karnataka,India,2023-08-28,SMB,Gold,aryan.nair@example.com,+91 8567039387
+CUST1094,Harsh,Das,New Delhi,Delhi,India,2024-12-02,Consumer,Bronze,harsh.das@example.com,+91 7945575773
+CUST1013,Aditya,Nair,,Uttar Pradesh,India,2022-06-26,Consumer,Platinum,aditya.nair@example.com,+91 8074197036
+CUST1017,Diya,Mehta,Gurugram,Delhi,India,2023-07-26,Consumer,Gold,diya.mehta@example.com,+91 8922630691
+CUST1048,Nisha,Nair,New Delhi,Delhi,India,2024-09-17,Corporate,Bronze,nisha.nair@example.com,+91 8977053860
+CUST1187,Tanya,Sharma,Siliguri,West Bengal,India,2025-03-13,SMB,Gold,tanya.sharma@example.com,+91 9068319512
+CUST1204,Pooja,Bose,Coimbatore,Tamil Nadu,India,2025-01-28,Consumer,Bronze,pooja.bose@example.com,+91 8588787323
+CUST1266,Aditya,Mishra,Bengaluru,Karnataka,India,2023-11-07,Consumer,Silver,aditya.mishra@example.com,+91 9381020521
+CUST1120,Meera,Verma,Chennai,Tamil Nadu,India,2024-03-14,Consumer,Silver,meera.verma@example.com,+91 8311050834
+CUST1022,Aryan,Mishra,Mumbai,Maharashtra,India,2023-10-13,SMB,Gold,aryan.mishra@example.com,+91 8077177957
+CUST1147,Kabir,Chauhan,,Delhi,India,2025-03-03,Corporate,Bronze,kabir.chauhan@example.com,+91 7841346241
+CUST1179,Rohan,Bose,Pune,Maharashtra,India,2025-03-31,SMB,Platinum,rohan.bose@example.com,+91 7188000105
+CUST1084,Kabir,Bose,Kanpur,Uttar Pradesh,India,2023-01-10,Corporate,Silver,kabir.bose@example.com,+91 9573612512
+CUST1131,Aryan,Singh,Bengaluru,Karnataka,India,2023-07-31,SMB,Silver,aryan.singh@example.com,+91 8254532198
+CUST1230,Kabir,Reddy,New Delhi,Delhi,India,2023-05-14,CORPORATE,Bronze,kabir.reddy@example.com,+91 9829337050
+CUST1151,Neha,Bose,,Uttar Pradesh,India,2024-03-24,Consumer,Bronze,neha.bose@example.com,+91 9186742244
+CUST1124,Manish,Nair,Chennai,Tamil Nadu,India,2023-09-25, smb ,Platinum,manish.nair@example.com,+91 8953974519
+CUST1034,Harsh,Iyer,Kanpur,Uttar Pradesh,India,2025-01-08,SMB,Silver,harsh.iyer@example.com,+91 9166119918
+CUST1005,Aarav,Verma,,Tamil Nadu,India,2024-11-14,Consumer,Gold,aarav.verma@example.com,+91 8921433280
+CUST1020,Rohan,Nair,Bengaluru,Karnataka,India,2024-10-10,Consumer,Gold,rohan.nair@example.com,+91 7835936537
+CUST1220,Ananya,Joshi,Chennai,Tamil Nadu,India,2024-08-20,Corporate,Silver,ananya.joshi@example.com,+91 8362781075
+CUST1281,Manish,Mishra,Howrah,West Bengal,India,2024-08-07,Consumer,Silver,manish.mishra@example.com,+91 7042703421
+CUST1150,Kavya,Singh,Noida,Delhi,India,2022-10-04,Consumer,Bronze,kavya.singh@example.com,+91 8837899435
+CUST1225,Ananya,Chauhan,Agra,Uttar Pradesh,India,2024-09-10,Consumer,Gold,ananya.chauhan@example.com,+91 7466505831
+CUST1248,Neha,Verma,Madurai,Tamil Nadu,India,2024-05-23,Consumer,Gold,neha.verma@example.com,+91 7619152213
+CUST1292,Kavya,Nair,Agra,Uttar Pradesh,India,2023-06-30,Consumer,Silver,,+91 7415513771
+CUST1152,Pooja,Bose,Lucknow,Uttar Pradesh,India,2025-03-09,Corporate,Gold,pooja.bose@example.com,+91 7320688511
+CUST1234,Diya,Patel,Siliguri,West Bengal,India,2024-09-29,Consumer,Bronze,diya.patel@example.com,+91 8016008024
+CUST1011,Saanvi,Mehta,Nagpur,Maharashtra,India,2022-09-04,Consumer,Gold,saanvi.mehta@example.com,+91 7538687282
+CUST1072,Saanvi,Joshi,Mumbai,Maharashtra,India,2022-09-18,Consumer,Bronze,saanvi.joshi@example.com,+91 8251620699
+CUST1253,Aarav,Joshi,Pune,Maharashtra,India,2024-07-05,Corporate,Bronze,aarav.joshi@example.com,+91 7668620578
+CUST1093,Ishaan,Gupta,Bengaluru,Karnataka,India,2022-12-15,Corporate,Silver,ishaan.gupta@example.com,+91 9844877834
+CUST1193,Ishaan,Iyer,Gurugram,Delhi,India,2022-04-08,SMB,Silver,ishaan.iyer@example.com,+91 7554592069
+CUST1258,Manish,Sharma,Nagpur,Maharashtra,India,2024-05-14,Consumer,Gold,manish.sharma@example.com,+91 8321038935
+CUST1255,Simran,Gupta,Kanpur,Uttar Pradesh,India,2023-07-25,Consumer,Silver,simran.gupta@example.com,+91 7963672567
+CUST1196,Saanvi,Joshi,Mysuru,Karnataka,India,2022-07-19,Consumer,Gold,saanvi.joshi@example.com,+91 8067347298
+CUST1138,Ishaan,Nair,Lucknow,Uttar Pradesh,India,2024-11-14,Consumer,Silver,ishaan.nair@example.com,+91 8986767230
+CUST1261,Aditya,Das,Nagpur,Maharashtra,India,2025-01-23,SMB,Bronze,aditya.das@example.com,+91 7975952796
+CUST1039,Manish,Sharma,Bengaluru,Karnataka,India,2022-02-05,Consumer,Bronze,manish.sharma@example.com,+91 7572705427
+CUST1202,Saanvi,Joshi,Kanpur,Uttar Pradesh,India,2023-01-31,Consumer,Bronze,saanvi.joshi@example.com,+91 8289673914
+CUST1190,Manish,Verma,Mumbai,Maharashtra,India,2022-12-28,Consumer,Gold,manish.verma@example.com,+91 7668788452
+CUST1252,Vivaan,Gupta,Nagpur,Maharashtra,India,2025-02-24,SMB,Gold,vivaan.gupta@example.com,+91 7464599684
+CUST1113,Tanya,Reddy,,Karnataka,India,2023-11-14,Corporate,Platinum,tanya.reddy@example.com,+91 7470781431
+CUST1184,Pooja,Sharma,Lucknow,Uttar Pradesh,India,2024-10-16,Consumer,Platinum,pooja.sharma@example.com,+91 7587811080
+CUST1153,Ananya,Patel,Mysuru,Karnataka,India,2024-09-18,SMB,Bronze,ananya.patel@example.com,+91 7539833608
+CUST1192,Riya,Joshi,Howrah,West Bengal,India,2022-07-21,Consumer,Bronze,riya.joshi@example.com,+91 7572934627
+CUST1045,Harsh,Bose,Kanpur,Uttar Pradesh,India,2023-02-11,Consumer,Bronze,harsh.bose@example.com,+91 7651789171
+CUST1276,Simran,Das,Coimbatore,Tamil Nadu,India,2024-01-28,Consumer,Platinum,simran.das@example.com,+91 9042164271
+CUST1007,Riya,Mehta,Lucknow,Uttar Pradesh,India,2023-12-11,Consumer,Silver,riya.mehta@example.com,+91 7821021113
+CUST1251,Meera,Das,Mumbai,Maharashtra,India,2024-02-26,SMB,Bronze,meera.das@example.com,+91 8486583620
+CUST1076,Nisha,Kulkarni,New Delhi,Delhi,India,2022-03-23,Corporate,Gold,nisha.kulkarni@example.com,+91 9845871073
+CUST1001,Ananya,Das,Agra,Uttar Pradesh,India,2023-01-10,Consumer,Bronze,ananya.das@example.com,+91 9390416946
+CUST1069,Kavya,Das,Agra,Uttar Pradesh,India,2023-06-30,Consumer,Platinum,kavya.das@example.com,+91 7445413076
+CUST1168,Manish,Bose,Nagpur,Maharashtra,India,2022-03-21,SMB,Gold,manish.bose@example.com,+91 7989997840
+CUST1219,Rohan,Mehta,Agra,Uttar Pradesh,India,2023-12-03,Consumer,Silver,rohan.mehta@example.com,+91 7765309147
+CUST1043,Vikram,Iyer,Lucknow,Uttar Pradesh,India,2022-06-04,SMB,Gold,vikram.iyer@example.com,+91 7769368151
+CUST1073,Yash,Mishra,Kolkata,West Bengal,India,2024-10-11,Corporate,Gold,yash.mishra@example.com,+91 9450564622
+CUST1024,Manish,Kulkarni,Nagpur,Maharashtra,India,2023-04-11,Corporate,Silver,manish.kulkarni@example.com,+91 9636316646
+CUST1186,Rahul,Reddy,Mysuru,Karnataka,India,2024-03-28,Consumer,Bronze,rahul.reddy@example.com,+91 8326159261
+CUST1104,Tanya,Iyer,Coimbatore,Tamil Nadu,India,2022-05-30,Consumer,Platinum,tanya.iyer@example.com,+91 7355236264
+CUST1212,Kabir,Iyer,Mysuru,Karnataka,India,2025-03-04,Corporate,Bronze,kabir.iyer@example.com,+91 8931845185
+CUST1068,Simran,Nair,Pune,Maharashtra,India,2022-08-17,Consumer,Silver,simran.nair@example.com,+91 7985131731
+CUST1026,Kavya,Chauhan,Nagpur,Maharashtra,India,2023-10-20,Consumer,Platinum,kavya.chauhan@example.com,+91 7099318844
+CUST1197,Vivaan,Mehta,Siliguri,West Bengal,India,2023-04-18,Consumer,Silver,vivaan.mehta@example.com,+91 9342944279
+CUST1176,Meera,Singh,Bengaluru,Karnataka,India,2024-07-02,Consumer,Silver,meera.singh@example.com,+91 8022096007

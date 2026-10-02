@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+PRD001,Wireless Earbuds,Electronics,2499.0
+PRD002,Smartphone,Electronics,18999.0
+PRD003,Laptop,Electronics,54999.0
+PRD004,Smart Watch,Electronics,3999.0
+PRD005,Bluetooth Speaker,Electronics,2799.0
+PRD006,Office Chair,Furniture,6499.0
+PRD007,Study Table,Furniture,8999.0
+PRD008,Bookshelf,Furniture,5299.0
+PRD009,Sofa Set,Furniture,32999.0
+PRD010,Mattress,Furniture,12999.0
+PRD011,Notebook Pack,Office Supplies,349.0
+PRD012,Gel Pen Set,Office Supplies,199.0
+PRD013,File Binder,Office Supplies,279.0
+PRD014,Stapler,Office Supplies,399.0
+PRD015,Whiteboard,Office Supplies,1899.0
+PRD016,T-Shirt,Apparel,699.0
+PRD017,Denim Jeans,Apparel,1799.0
+PRD018,Running Shoes,Apparel,3299.0
+PRD019,Backpack,Apparel,1499.0
+PRD020,Winter Jacket,Apparel,2799.0

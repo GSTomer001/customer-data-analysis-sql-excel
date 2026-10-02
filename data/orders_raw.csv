@@ -1,0 +1,1601 @@
+order_id,customer_id,order_date,channel,payment_method,status
+ORD50001,CUST1126,2023-01-02,Web,Credit Card,Delivered
+ORD50002,CUST1254,2023-01-03,Marketplace,Debit Card,Delivered
+ORD50003,CUST1203,2023-01-03,Web,Credit Card,Delivered
+ORD50004,CUST1144,2023-01-04,Web,Credit Card,Delivered
+ORD50005,CUST1107,2023-01-05,Mobile App,Credit Card,Delivered
+ORD50006,CUST1022,2023-01-05,Mobile App,Cash on Delivery,Delivered
+ORD50007,CUST1106,2023-01-06,Retail Store,UPI,Delivered
+ORD50008,CUST1004,2023-01-09,Web,Credit Card,Shipped
+ORD50009,CUST1289,2023-01-09,Web,Net Banking,Delivered
+ORD50010,CUST1193,2023-01-10,Web,UPI,Delivered
+ORD50011,CUST1163,2023-01-10,Mobile App,UPI,Cancelled
+ORD50012,CUST1128,2023-01-12,Web,Cash on Delivery,Delivered
+ORD50013,CUST1195,2023-01-12,Mobile App,Net Banking,Delivered
+ORD50014,CUST1133,2023-01-12,Marketplace,UPI,Delivered
+ORD50015,CUST1274,2023-01-14,Web,Cash on Delivery,Returned
+ORD50016,CUST1098,2023-01-15,Mobile App,UPI,Delivered
+ORD50017,CUST1133,2023-01-15,Web,UPI,Delivered
+ORD50018,CUST1054,2023-01-15,Mobile App,Debit Card,Cancelled
+ORD50019,CUST1214,2023-01-17,Retail Store,Cash on Delivery,Delivered
+ORD50020,CUST1143,2023-01-18,Retail Store,Net Banking,Delivered
+ORD50021,CUST1084,2023-01-20,Mobile App,UPI,Delivered
+ORD50022,CUST1077,2023-01-20,Retail Store,UPI,Delivered
+ORD50023,CUST1256,2023-01-20,Web,Credit Card,Delivered
+ORD50024,CUST1268,2023-01-23,Web,Credit Card,Cancelled
+ORD50025,CUST1062,2023-01-23,Mobile App,Debit Card,Delivered
+ORD50026,CUST1054,2023-01-24,Mobile App,UPI,Delivered
+ORD50027,CUST1175,2023-01-24,Marketplace,Debit Card,Delivered
+ORD50028,CUST1291,2023-01-25,Mobile App,Net Banking,Delivered
+ORD50029,CUST1179,2023-01-26,Web,UPI,Shipped
+ORD50030,CUST1259,2023-01-27,Marketplace,Debit Card,Delivered
+ORD50031,CUST1230,2023-01-27,Web,UPI,Returned
+ORD50032,CUST1116,2023-01-27,Marketplace,Net Banking,Returned
+ORD50033,CUST1086,2023-01-28,Web,UPI,Shipped
+ORD50034,CUST1232,2023-01-28,Web,UPI,Pending
+ORD50035,CUST1172,2023-01-29,Web,Debit Card,Delivered
+ORD50036,CUST1175,2023-01-29,Web,Credit Card,Delivered
+ORD50037,CUST1015,2023-01-30,Mobile App,Cash on Delivery,Delivered
+ORD50038,CUST1140,2023-01-31,Web,Cash on Delivery,Delivered
+ORD50039,CUST1233,2023-02-01,Web,Debit Card,Delivered
+ORD50040,CUST1244,2023-02-01,Mobile App,UPI,Shipped
+ORD50041,CUST1163,2023-02-03,Marketplace,UPI,Delivered
+ORD50042,CUST1250,2023-02-03,Web,UPI,Delivered
+ORD50043,CUST1242,2023-02-03,Mobile App,UPI,Delivered
+ORD50044,CUST1061,2023-02-05,Web,Credit Card,Delivered
+ORD50045,CUST1216,2023-02-05,Web,Debit Card,Pending
+ORD50046,CUST1272,2023-02-09,Web,Debit Card,Shipped
+ORD50047,CUST1144,2023-02-13,Web,UPI,Delivered
+ORD50048,CUST1010,2023-02-14,Marketplace,Debit Card,Shipped
+ORD50049,CUST1295,2023-02-15,Web,UPI,Cancelled
+ORD50050,CUST1002,2023-02-17,Mobile App,Debit Card,Delivered
+ORD50051,CUST1027,2023-02-20,Marketplace,Cash on Delivery,Delivered
+ORD50052,CUST1146,2023-02-20,Mobile App,Net Banking,Delivered
+ORD50053,CUST1099,2023-02-22,Mobile App,Cash on Delivery,Delivered
+ORD50054,CUST1091,2023-02-23,Web,Debit Card,Delivered
+ORD50055,CUST1281,2023-02-24,Web,Net Banking,Cancelled
+ORD50056,CUST1127,2023-02-25,Web,UPI,Delivered
+ORD50057,CUST1024,2023-02-25,Retail Store,Credit Card,Delivered
+ORD50058,CUST1144,2023-02-26,Web,Credit Card,Pending
+ORD50059,CUST1081,2023-02-27,Web,Debit Card,Shipped
+ORD50060,CUST1141,2023-02-27,Marketplace,Credit Card,Delivered
+ORD50061,CUST1251,2023-02-28,Mobile App,Net Banking,Delivered
+ORD50062,CUST1273,2023-03-02,Mobile App,Credit Card,Delivered
+ORD50063,CUST1214,2023-03-02,Web,Debit Card,Shipped
+ORD50064,CUST1276,2023-03-02,Web,Cash on Delivery,Delivered
+ORD50065,CUST1067,2023-03-03,Marketplace,Net Banking,Delivered
+ORD50066,CUST1104,2023-03-04,Web,Credit Card,Delivered
+ORD50067,CUST1238,2023-03-04,Web,Debit Card,Delivered
+ORD50068,CUST1087,2023-03-04,Marketplace,UPI,Delivered
+ORD50069,CUST1173,2023-03-05,Web,Debit Card,Delivered
+ORD50070,CUST1197,2023-03-05,Retail Store,Credit Card,Delivered
+ORD50071,CUST1094,2023-03-07,Web,UPI,Delivered
+ORD50072,CUST1060,2023-03-07,Mobile App,Debit Card,Delivered
+ORD50073,CUST1001,2023-03-07,Mobile App,Debit Card,Returned
+ORD50074,CUST1121,2023-03-08,Mobile App,Debit Card,Delivered
+ORD50075,CUST1124,2023-03-09,Marketplace,UPI,Delivered
+ORD50076,CUST1216,2023-03-11,Web,Net Banking,Delivered
+ORD50077,CUST1219,2023-03-12,Mobile App,Cash on Delivery,Pending
+ORD50078,CUST1002,2023-03-12,Marketplace,Net Banking,Delivered
+ORD50079,CUST1145,2023-03-12,Web,Credit Card,Delivered
+ORD50080,CUST1232,2023-03-12,Mobile App,Credit Card,Delivered
+ORD50081,CUST1291,2023-03-13,Mobile App,Credit Card,Delivered
+ORD50082,CUST1221,2023-03-14,Mobile App,Credit Card,Delivered
+ORD50083,CUST1088,2023-03-14,Mobile App,Credit Card,Delivered
+ORD50084,CUST1117,2023-03-14,Mobile App,UPI,Delivered
+ORD50085,CUST1112,2023-03-17,Marketplace,Net Banking,Delivered
+ORD50086,CUST1075,2023-03-17,Marketplace,Debit Card,Delivered
+ORD50087,CUST1002,2023-03-18,Mobile App,UPI,Delivered
+ORD50088,CUST1163,2023-03-19,Retail Store,Credit Card,Delivered
+ORD50089,CUST1082,2023-03-19,Mobile App,Debit Card,Shipped
+ORD50090,CUST1089,2023-03-21,Web,Debit Card,Shipped
+ORD50091,CUST1111,2023-03-22,Web,Cash on Delivery,Delivered
+ORD50092,CUST1247,2023-03-22,Web,Credit Card,Delivered
+ORD50093,CUST1218,2023-03-22,Web,Net Banking,Delivered
+ORD50094,CUST1178,2023-03-24,Web,Net Banking,Returned
+ORD50095,CUST1220,2023-03-25,Marketplace,UPI,Cancelled
+ORD50096,CUST1093,2023-03-28,Marketplace,Credit Card,Delivered
+ORD50097,CUST1115,2023-03-29,Mobile App,Cash on Delivery,Shipped
+ORD50098,CUST1243,2023-03-29,Mobile App,UPI,Delivered
+ORD50099,CUST1188,2023-03-30,Mobile App,Credit Card,Pending
+ORD50100,CUST1183,2023-03-30,Web,UPI,Delivered
+ORD50101,CUST1061,2023-03-31,Retail Store,Debit Card,Delivered
+ORD50102,CUST1040,2023-04-01,Web,Credit Card,Delivered
+ORD50103,CUST1068,2023-04-01,Web,Debit Card,Delivered
+ORD50104,CUST1125,2023-04-02,Mobile App,Credit Card,Delivered
+ORD50105,CUST1081,2023-04-02,Web,UPI,Shipped
+ORD50106,CUST1147,2023-04-02,Marketplace,UPI,Delivered
+ORD50107,CUST1081,2023-04-02,Mobile App,Credit Card,Delivered
+ORD50108,CUST1284,2023-04-03,Web,Debit Card,Delivered
+ORD50109,CUST1291,2023-04-04,Web,UPI,Cancelled
+ORD50110,CUST1097,2023-04-05,Web,Debit Card,Delivered
+ORD50111,CUST1224,2023-04-05,Mobile App,Debit Card,Delivered
+ORD50112,CUST1135,2023-04-06,Web,UPI,Delivered
+ORD50113,CUST1240,2023-04-07,Web,Credit Card,Delivered
+ORD50114,CUST1294,2023-04-07,Mobile App,UPI,Delivered
+ORD50115,CUST1249,2023-04-08,Web,Credit Card,Delivered
+ORD50116,CUST1128,2023-04-08,Marketplace,Debit Card,Delivered
+ORD50117,CUST1149,2023-04-10,Marketplace,Credit Card,Delivered
+ORD50118,CUST1249,2023-04-12,Marketplace,Debit Card,Delivered
+ORD50119,CUST1112,2023-04-12,Marketplace,Credit Card,Delivered
+ORD50120,CUST1030,2023-04-13,Marketplace,Credit Card,Pending
+ORD50121,CUST1114,2023-04-14,Web,Credit Card,Delivered
+ORD50122,CUST1119,2023-04-15,Mobile App,Debit Card,Delivered
+ORD50123,CUST1025,2023-04-15,Web,Net Banking,Delivered
+ORD50124,CUST1056,2023-04-18,Web,Net Banking,Delivered
+ORD50125,CUST1120,2023-04-22,Web,Credit Card,Delivered
+ORD50126,CUST1266,2023-04-22,Web,UPI,Pending
+ORD50127,CUST1122,2023-04-23,Web,Debit Card,Delivered
+ORD50128,CUST1166,2023-04-24,Web,Net Banking,Delivered
+ORD50129,CUST1091,2023-04-25,Mobile App,Debit Card,Delivered
+ORD50130,CUST1066,2023-04-25,Web,UPI,Delivered
+ORD50131,CUST1052,2023-04-27,Web,Credit Card,Delivered
+ORD50132,CUST1028,2023-04-27,Mobile App,Debit Card,Delivered
+ORD50133,CUST1022,2023-04-28,Web,Credit Card,Shipped
+ORD50134,CUST1127,2023-04-29,Marketplace,Credit Card,Delivered
+ORD50135,CUST1171,2023-04-29,Web,Net Banking,Delivered
+ORD50136,CUST1029,2023-04-29,Mobile App,Credit Card,Delivered
+ORD50137,CUST1271,2023-04-30,Web,Debit Card,Returned
+ORD50138,CUST1146,2023-05-01,Mobile App,Net Banking,Cancelled
+ORD50139,CUST1263,2023-05-01,Marketplace,UPI,Delivered
+ORD50140,CUST1219,2023-05-01,Web,UPI,Delivered
+ORD50141,CUST1126,2023-05-02,Mobile App,UPI,Delivered
+ORD50142,CUST1094,2023-05-03,Mobile App,Credit Card,Delivered
+ORD50143,CUST1082,2023-05-03,Web,Credit Card,Pending
+ORD50144,CUST1051,2023-05-04,Web,UPI,Delivered
+ORD50145,CUST1151,2023-05-06,Marketplace,Credit Card,Delivered
+ORD50146,CUST1109,2023-05-07,Web,Credit Card,Delivered
+ORD50147,CUST1149,2023-05-08,Marketplace,UPI,Delivered
+ORD50148,CUST1050,2023-05-09,Mobile App,Net Banking,Delivered
+ORD50149,CUST1205,2023-05-10,Marketplace,UPI,Delivered
+ORD50150,CUST1254,2023-05-10,Web,Credit Card,Returned
+ORD50151,CUST1168,2023-05-11,Mobile App,Debit Card,Shipped
+ORD50152,CUST1029,2023-05-11,Mobile App,Debit Card,Delivered
+ORD50153,CUST1047,2023-05-13,Marketplace,Net Banking,Pending
+ORD50154,CUST1223,2023-05-14,Web,Net Banking,Delivered
+ORD50155,CUST1094,2023-05-14,Web,Credit Card,Returned
+ORD50156,CUST1101,2023-05-15,Mobile App,Debit Card,Delivered
+ORD50157,CUST1289,2023-05-15,Mobile App,Net Banking,Delivered
+ORD50158,CUST1219,2023-05-16,Web,Credit Card,Delivered
+ORD50159,CUST1131,2023-05-17,Mobile App,Net Banking,Delivered
+ORD50160,CUST1232,2023-05-19,Marketplace,Net Banking,Delivered
+ORD50161,CUST1084,2023-05-19,Marketplace,UPI,Delivered
+ORD50162,CUST1041,2023-05-20,Web,UPI,Delivered
+ORD50163,CUST1141,2023-05-20,Mobile App,Debit Card,Delivered
+ORD50164,CUST1227,2023-05-20,Web,Debit Card,Shipped
+ORD50165,CUST1085,2023-05-21,Mobile App,Net Banking,Delivered
+ORD50166,CUST1284,2023-05-22,Web,Credit Card,Delivered
+ORD50167,CUST1092,2023-05-23,Retail Store,Credit Card,Delivered
+ORD50168,CUST1171,2023-05-24,Web,Cash on Delivery,Delivered
+ORD50169,CUST1056,2023-05-24,Retail Store,UPI,Delivered
+ORD50170,CUST1194,2023-05-26,Web,Net Banking,Delivered
+ORD50171,CUST1057,2023-05-26,Web,Credit Card,Delivered
+ORD50172,CUST1097,2023-05-27,Web,UPI,Delivered
+ORD50173,CUST1019,2023-05-28,Web,Net Banking,Delivered
+ORD50174,CUST1053,2023-05-30,Marketplace,Debit Card,Delivered
+ORD50175,CUST1036,2023-05-30,Marketplace,Cash on Delivery,Delivered
+ORD50176,CUST1224,2023-05-30,Retail Store,UPI,Returned
+ORD50177,CUST1218,2023-05-31,Mobile App,UPI,Delivered
+ORD50178,CUST1247,2023-05-31,Web,Credit Card,Delivered
+ORD50179,CUST1094,2023-05-31,Mobile App,UPI,Delivered
+ORD50180,CUST1062,2023-06-01,Marketplace,UPI,Delivered
+ORD50181,CUST1060,2023-06-02,Web,Cash on Delivery,Delivered
+ORD50182,CUST1035,2023-06-04,Marketplace,UPI,Delivered
+ORD50183,CUST1027,2023-06-04,Web,Net Banking,Delivered
+ORD50184,CUST1106,2023-06-04,Marketplace,Debit Card,Delivered
+ORD50185,CUST1042,2023-06-05,Mobile App,Credit Card,Delivered
+ORD50186,CUST1188,2023-06-06,Retail Store,Credit Card,Delivered
+ORD50187,CUST1176,2023-06-08,Marketplace,UPI,Delivered
+ORD50188,CUST1110,2023-06-10,Web,Credit Card,Pending
+ORD50189,CUST1036,2023-06-11,Mobile App,Credit Card,Delivered
+ORD50190,CUST1290,2023-06-12,Web,Debit Card,Cancelled
+ORD50191,CUST1067,2023-06-13,Mobile App,Net Banking,Delivered
+ORD50192,CUST1238,2023-06-14,Web,Credit Card,Delivered
+ORD50193,CUST1272,2023-06-14,Web,Credit Card,Delivered
+ORD50194,CUST1275,2023-06-15,Mobile App,Debit Card,Delivered
+ORD50195,CUST1180,2023-06-15,Web,UPI,Pending
+ORD50196,CUST1180,2023-06-15,Mobile App,UPI,Returned
+ORD50197,CUST1247,2023-06-17,Marketplace,Net Banking,Delivered
+ORD50198,CUST1227,2023-06-19,Web,Net Banking,Delivered
+ORD50199,CUST1201,2023-06-20,Retail Store,Cash on Delivery,Delivered
+ORD50200,CUST1286,2023-06-21,Mobile App,Credit Card,Pending
+ORD50201,CUST1071,2023-06-22,Web,Debit Card,Delivered
+ORD50202,CUST1011,2023-06-26,Retail Store,UPI,Delivered
+ORD50203,CUST1167,2023-06-28,Mobile App,Credit Card,Shipped
+ORD50204,CUST1173,2023-06-30,Mobile App,UPI,Delivered
+ORD50205,CUST1256,2023-07-02,Web,Credit Card,Delivered
+ORD50206,CUST1057,2023-07-04,Marketplace,Credit Card,Pending
+ORD50207,CUST1029,2023-07-05,Web,Credit Card,Delivered
+ORD50208,CUST1239,2023-07-05,Web,Net Banking,Delivered
+ORD50209,CUST1282,2023-07-06,Web,Net Banking,Returned
+ORD50210,CUST1070,2023-07-07,Web,Credit Card,Delivered
+ORD50211,CUST1075,2023-07-08,Marketplace,UPI,Delivered
+ORD50212,CUST1223,2023-07-12,Mobile App,Debit Card,Cancelled
+ORD50213,CUST1189,2023-07-13,Mobile App,UPI,Delivered
+ORD50214,CUST1100,2023-07-14,Marketplace,UPI,Delivered
+ORD50215,CUST1186,2023-07-14,Mobile App,Cash on Delivery,Delivered
+ORD50216,CUST1196,2023-07-17,Web,UPI,Delivered
+ORD50217,CUST1026,2023-07-18,Mobile App,UPI,Returned
+ORD50218,CUST1204,2023-07-18,Mobile App,Net Banking,Delivered
+ORD50219,CUST1188,2023-07-22,Web,Credit Card,Delivered
+ORD50220,CUST1273,2023-07-24,Web,UPI,Delivered
+ORD50221,CUST1059,2023-07-24,Web,Debit Card,Delivered
+ORD50222,CUST1262,2023-07-25,Marketplace,Net Banking,Returned
+ORD50223,CUST1214,2023-07-26,Web,Debit Card,Delivered
+ORD50224,CUST1132,2023-07-27,Retail Store,UPI,Delivered
+ORD50225,CUST1005,2023-07-28,Web,UPI,Shipped
+ORD50226,CUST1207,2023-07-28,Web,Credit Card,Shipped
+ORD50227,CUST1298,2023-07-30,Web,Credit Card,Delivered
+ORD50228,CUST1055,2023-08-03,Mobile App,Credit Card,Delivered
+ORD50229,CUST1042,2023-08-06,Web,Credit Card,Delivered
+ORD50230,CUST1030,2023-08-07,Marketplace,Credit Card,Pending
+ORD50231,CUST1066,2023-08-07,Marketplace,UPI,Pending
+ORD50232,CUST1215,2023-08-07,Web,UPI,Delivered
+ORD50233,CUST1066,2023-08-08,Marketplace,Debit Card,Delivered
+ORD50234,CUST1273,2023-08-08,Web,Debit Card,Delivered
+ORD50235,CUST1263,2023-08-08,Mobile App,UPI,Delivered
+ORD50236,CUST1224,2023-08-09,Web,Net Banking,Cancelled
+ORD50237,CUST1005,2023-08-11,Marketplace,UPI,Delivered
+ORD50238,CUST1156,2023-08-12,Web,UPI,Delivered
+ORD50239,CUST1061,2023-08-12,Marketplace,UPI,Delivered
+ORD50240,CUST1189,2023-08-14,Web,Net Banking,Delivered
+ORD50241,CUST1200,2023-08-14,Marketplace,Cash on Delivery,Delivered
+ORD50242,CUST1220,2023-08-15,Web,Debit Card,Delivered
+ORD50243,CUST1204,2023-08-15,Mobile App,Credit Card,Delivered
+ORD50244,CUST1171,2023-08-19,Mobile App,Net Banking,Delivered
+ORD50245,CUST1243,2023-08-19,Web,Credit Card,Returned
+ORD50246,CUST1109,2023-08-19,Mobile App,Net Banking,Pending
+ORD50247,CUST1263,2023-08-20,Marketplace,Debit Card,Delivered
+ORD50248,CUST1256,2023-08-23,Web,Net Banking,Delivered
+ORD50249,CUST1024,2023-08-23,Mobile App,Credit Card,Delivered
+ORD50250,CUST1111,2023-08-25,Web,UPI,Delivered
+ORD50251,CUST1180,2023-08-25,Web,Credit Card,Delivered
+ORD50252,CUST1272,2023-08-26,Mobile App,Net Banking,Shipped
+ORD50253,CUST1295,2023-08-27,Mobile App,Net Banking,Delivered
+ORD50254,CUST1240,2023-08-27,Mobile App,Debit Card,Delivered
+ORD50255,CUST1027,2023-08-28,Marketplace,UPI,Shipped
+ORD50256,CUST1238,2023-08-28,Marketplace,Net Banking,Delivered
+ORD50257,CUST1018,2023-08-29,Web,Credit Card,Delivered
+ORD50258,CUST1251,2023-08-30,Mobile App,Cash on Delivery,Returned
+ORD50259,CUST1220,2023-08-31,Mobile App,Cash on Delivery,Delivered
+ORD50260,CUST1297,2023-08-31,Marketplace,Credit Card,Pending
+ORD50261,CUST1252,2023-09-02,Marketplace,UPI,Cancelled
+ORD50262,CUST1297,2023-09-02,Mobile App,Net Banking,Delivered
+ORD50263,CUST1200,2023-09-03,Web,Credit Card,Shipped
+ORD50264,CUST1151,2023-09-03,Marketplace,Credit Card,Delivered
+ORD50265,CUST1075,2023-09-05,Web,Credit Card,Delivered
+ORD50266,CUST1114,2023-09-05,Mobile App,Net Banking,Delivered
+ORD50267,CUST1013,2023-09-06,Marketplace,Credit Card,Delivered
+ORD50268,CUST1220,2023-09-07,Web,UPI,Delivered
+ORD50269,CUST1150,2023-09-07,Retail Store,Debit Card,Delivered
+ORD50270,CUST1291,2023-09-08,Web,Credit Card,Shipped
+ORD50271,CUST1291,2023-09-09,Web,Net Banking,Delivered
+ORD50272,CUST1190,2023-09-13,Mobile App,UPI,Shipped
+ORD50273,CUST1279,2023-09-14,Marketplace,UPI,Delivered
+ORD50274,CUST1008,2023-09-15,Mobile App,UPI,Delivered
+ORD50275,CUST1134,2023-09-15,Marketplace,UPI,Delivered
+ORD50276,CUST1012,2023-09-16,Mobile App,Debit Card,Delivered
+ORD50277,CUST1044,2023-09-16,Marketplace,Net Banking,Returned
+ORD50278,CUST1140,2023-09-18,Web,UPI,Delivered
+ORD50279,CUST1238,2023-09-19,Web,Credit Card,Delivered
+ORD50280,CUST1237,2023-09-19,Web,UPI,Pending
+ORD50281,CUST1216,2023-09-20,Marketplace,Cash on Delivery,Pending
+ORD50282,CUST1267,2023-09-20,Mobile App,Debit Card,Delivered
+ORD50283,CUST1296,2023-09-21,Mobile App,Credit Card,Delivered
+ORD50284,CUST1113,2023-09-22,Web,UPI,Delivered
+ORD50285,CUST1042,2023-09-22,Marketplace,UPI,Delivered
+ORD50286,CUST1156,2023-09-23,Retail Store,UPI,Delivered
+ORD50287,CUST1283,2023-09-24,Web,Credit Card,Shipped
+ORD50288,CUST1154,2023-09-26,Web,Credit Card,Shipped
+ORD50289,CUST1292,2023-09-26,Marketplace,UPI,Delivered
+ORD50290,CUST1029,2023-09-26,Marketplace,Debit Card,Delivered
+ORD50291,CUST1143,2023-09-26,Marketplace,Net Banking,Delivered
+ORD50292,CUST1001,2023-09-27,Web,Net Banking,Delivered
+ORD50293,CUST1210,2023-09-27,Mobile App,Net Banking,Delivered
+ORD50294,CUST1158,2023-09-28,Web,Credit Card,Returned
+ORD50295,CUST1078,2023-09-29,Mobile App,Credit Card,Delivered
+ORD50296,CUST1152,2023-09-29,Mobile App,UPI,Delivered
+ORD50297,CUST1192,2023-09-29,Web,Credit Card,Delivered
+ORD50298,CUST1260,2023-09-29,Mobile App,UPI,Cancelled
+ORD50299,CUST1298,2023-10-01,Web,UPI,Delivered
+ORD50300,CUST1055,2023-10-01,Web,UPI,Pending
+ORD50301,CUST1015,2023-10-02,Web,Credit Card,Delivered
+ORD50302,CUST1256,2023-10-02,Marketplace,Debit Card,Delivered
+ORD50303,CUST1170,2023-10-03,Web,Cash on Delivery,Delivered
+ORD50304,CUST1082,2023-10-04,Retail Store,Net Banking,Delivered
+ORD50305,CUST1195,2023-10-05,Marketplace,Credit Card,Delivered
+ORD50306,CUST1162,2023-10-06,Retail Store,UPI,Shipped
+ORD50307,CUST1206,2023-10-06,Marketplace,Debit Card,Delivered
+ORD50308,CUST1213,2023-10-07,Web,Net Banking,Delivered
+ORD50309,CUST1263,2023-10-07,Web,Net Banking,Delivered
+ORD50310,CUST1044,2023-10-08,Web,Net Banking,Delivered
+ORD50311,CUST1258,2023-10-09,Web,Cash on Delivery,Delivered
+ORD50312,CUST1284,2023-10-10,Web,Net Banking,Delivered
+ORD50313,CUST1135,2023-10-10,Retail Store,Credit Card,Delivered
+ORD50314,CUST1288,2023-10-11,Retail Store,UPI,Delivered
+ORD50315,CUST1188,2023-10-12,Marketplace,Cash on Delivery,Delivered
+ORD50316,CUST1291,2023-10-12,Web,Credit Card,Delivered
+ORD50317,CUST1161,2023-10-12,Marketplace,Credit Card,Delivered
+ORD50318,CUST1001,2023-10-12,Marketplace,Credit Card,Delivered
+ORD50319,CUST1051,2023-10-13,Web,Credit Card,Delivered
+ORD50320,CUST1194,2023-10-13,Web,Credit Card,Shipped
+ORD50321,CUST1283,2023-10-14,Web,Debit Card,Cancelled
+ORD50322,CUST1202,2023-10-15,Mobile App,Net Banking,Delivered
+ORD50323,CUST1203,2023-10-15,Marketplace,Debit Card,Delivered
+ORD50324,CUST1264,2023-10-15,Web,UPI,Delivered
+ORD50325,CUST1091,2023-10-16,Mobile App,UPI,Delivered
+ORD50326,CUST1061,2023-10-16,Web,Debit Card,Cancelled
+ORD50327,CUST1266,2023-10-16,Marketplace,Credit Card,Delivered
+ORD50328,CUST1038,2023-10-17,Web,UPI,Shipped
+ORD50329,CUST1094,2023-10-18,Mobile App,UPI,Delivered
+ORD50330,CUST1243,2023-10-18,Web,Net Banking,Pending
+ORD50331,CUST1076,2023-10-18,Mobile App,Debit Card,Delivered
+ORD50332,CUST1079,2023-10-19,Marketplace,UPI,Delivered
+ORD50333,CUST1267,2023-10-20,Marketplace,Net Banking,Delivered
+ORD50334,CUST1020,2023-10-20,Marketplace,UPI,Delivered
+ORD50335,CUST1207,2023-10-20,Web,Net Banking,Delivered
+ORD50336,CUST1028,2023-10-20,Web,Debit Card,Delivered
+ORD50337,CUST1036,2023-10-21,Web,UPI,Delivered
+ORD50338,CUST1194,2023-10-22,Web,Debit Card,Delivered
+ORD50339,CUST1166,2023-10-23,Web,UPI,Delivered
+ORD50340,CUST1161,2023-10-23,Marketplace,UPI,Delivered
+ORD50341,CUST1078,2023-10-23,Web,Net Banking,Delivered
+ORD50342,CUST1225,2023-10-24,Web,Credit Card,Delivered
+ORD50343,CUST1046,2023-10-24,Marketplace,Credit Card,Delivered
+ORD50344,CUST1243,2023-10-25,Marketplace,Credit Card,Delivered
+ORD50345,CUST1170,2023-10-26,Retail Store,UPI,Delivered
+ORD50346,CUST1001,2023-10-26,Mobile App,Net Banking,Delivered
+ORD50347,CUST1149,2023-10-26,Web,Net Banking,Shipped
+ORD50348,CUST1280,2023-10-27,Marketplace,Credit Card,Delivered
+ORD50349,CUST1148,2023-10-28,Web,UPI,Delivered
+ORD50350,CUST1264,2023-10-28,Marketplace,Credit Card,Delivered
+ORD50351,CUST1011,2023-10-29,Web,Net Banking,Delivered
+ORD50352,CUST1280,2023-10-29,Web,UPI,Delivered
+ORD50353,CUST1075,2023-10-29,Mobile App,Credit Card,Cancelled
+ORD50354,CUST1231,2023-10-30,Marketplace,Credit Card,Delivered
+ORD50355,CUST1018,2023-10-31,Mobile App,Cash on Delivery,Delivered
+ORD50356,CUST1116,2023-10-31,Mobile App,UPI,Delivered
+ORD50357,CUST1215,2023-11-01,Mobile App,Cash on Delivery,Delivered
+ORD50358,CUST1075,2023-11-01,Web,UPI,Delivered
+ORD50359,CUST1287,2023-11-02,Web,Credit Card,Delivered
+ORD50360,CUST1274,2023-11-02,Web,Net Banking,Delivered
+ORD50361,CUST1107,2023-11-02,Mobile App,Debit Card,Delivered
+ORD50362,CUST1127,2023-11-02,Web,Credit Card,Delivered
+ORD50363,CUST1298,2023-11-03,Web,Debit Card,Delivered
+ORD50364,CUST1147,2023-11-03,Mobile App,Net Banking,Delivered
+ORD50365,CUST1277,2023-11-04,Mobile App,Debit Card,Delivered
+ORD50366,CUST1210,2023-11-04,Web,Cash on Delivery,Returned
+ORD50367,CUST1144,2023-11-04,Retail Store,UPI,Shipped
+ORD50368,CUST1207,2023-11-05,Retail Store,Cash on Delivery,Cancelled
+ORD50369,CUST1162,2023-11-05,Web,Credit Card,Delivered
+ORD50370,CUST1209,2023-11-06,Mobile App,UPI,Delivered
+ORD50371,CUST1113,2023-11-06,Web,UPI,Delivered
+ORD50372,CUST1188,2023-11-06,Web,Credit Card,Shipped
+ORD50373,CUST1184,2023-11-06,Web,UPI,Delivered
+ORD50374,CUST1153,2023-11-07,Web,Debit Card,Delivered
+ORD50375,CUST1160,2023-11-07,Web,Credit Card,Delivered
+ORD50376,CUST1231,2023-11-08,Web,UPI,Cancelled
+ORD50377,CUST1063,2023-11-09,Mobile App,UPI,Delivered
+ORD50378,CUST1119,2023-11-09,Web,Credit Card,Delivered
+ORD50379,CUST1186,2023-11-09,Marketplace,Net Banking,Delivered
+ORD50380,CUST1079,2023-11-10,Marketplace,Credit Card,Delivered
+ORD50381,CUST1239,2023-11-10,Web,UPI,Cancelled
+ORD50382,CUST1273,2023-11-10,Marketplace,UPI,Delivered
+ORD50383,CUST1152,2023-11-10,Retail Store,Debit Card,Delivered
+ORD50384,CUST1254,2023-11-10,Web,Cash on Delivery,Delivered
+ORD50385,CUST1014,2023-11-11,Mobile App,Cash on Delivery,Delivered
+ORD50386,CUST1216,2023-11-12,Mobile App,UPI,Delivered
+ORD50387,CUST1135,2023-11-13,Web,Credit Card,Delivered
+ORD50388,CUST1051,2023-11-14,Web,Credit Card,Delivered
+ORD50389,CUST1259,2023-11-15,Web,Debit Card,Delivered
+ORD50390,CUST1014,2023-11-15,Mobile App,Debit Card,Delivered
+ORD50391,CUST1300,2023-11-16,Web,Debit Card,Delivered
+ORD50392,CUST1277,2023-11-16,Mobile App,Debit Card,Delivered
+ORD50393,CUST1226,2023-11-17,Retail Store,UPI,Delivered
+ORD50394,CUST1283,2023-11-18,Web,Debit Card,Delivered
+ORD50395,CUST1213,2023-11-19,Web,Net Banking,Delivered
+ORD50396,CUST1082,2023-11-19,Retail Store,Net Banking,Cancelled
+ORD50397,CUST1260,2023-11-20,Mobile App,Debit Card,Delivered
+ORD50398,CUST1189,2023-11-20,Mobile App,Net Banking,Delivered
+ORD50399,CUST1193,2023-11-21,Web,Debit Card,Delivered
+ORD50400,CUST1006,2023-11-21,Mobile App,Cash on Delivery,Delivered
+ORD50401,CUST1117,2023-11-21,Web,UPI,Delivered
+ORD50402,CUST1119,2023-11-21,Mobile App,Debit Card,Delivered
+ORD50403,CUST1094,2023-11-21,Mobile App,UPI,Delivered
+ORD50404,CUST1212,2023-11-22,Web,UPI,Delivered
+ORD50405,CUST1297,2023-11-23,Marketplace,Debit Card,Pending
+ORD50406,CUST1109,2023-11-23,Marketplace,Cash on Delivery,Shipped
+ORD50407,CUST1083,2023-11-23,Retail Store,Cash on Delivery,Shipped
+ORD50408,CUST1243,2023-11-23,Web,Debit Card,Delivered
+ORD50409,CUST1114,2023-11-24,Web,Debit Card,Returned
+ORD50410,CUST1274,2023-11-25,Web,Debit Card,Delivered
+ORD50411,CUST1231,2023-11-25,Web,Net Banking,Delivered
+ORD50412,CUST1042,2023-11-25,Web,Credit Card,Delivered
+ORD50413,CUST1107,2023-11-26,Web,Credit Card,Delivered
+ORD50414,CUST1207,2023-11-27,Web,Debit Card,Delivered
+ORD50415,CUST1006,2023-11-27,Web,Debit Card,Pending
+ORD50416,CUST1113,2023-11-27,Marketplace,Debit Card,Delivered
+ORD50417,CUST1041,2023-11-28,Mobile App,Net Banking,Returned
+ORD50418,CUST1053,2023-11-28,Marketplace,Net Banking,Delivered
+ORD50419,CUST1255,2023-11-28,Web,Net Banking,Delivered
+ORD50420,CUST1105,2023-11-29,Web,UPI,Delivered
+ORD50421,CUST1239,2023-11-29,Retail Store,Net Banking,Delivered
+ORD50422,CUST1145,2023-11-29,Web,Credit Card,Delivered
+ORD50423,CUST1261,2023-11-29,Web,UPI,Delivered
+ORD50424,CUST1269,2023-11-29,Mobile App,Net Banking,Delivered
+ORD50425,CUST1223,2023-11-29,Web,UPI,Delivered
+ORD50426,CUST1230,2023-11-30,Web,Credit Card,Delivered
+ORD50427,CUST1040,2023-11-30,Mobile App,Credit Card,Delivered
+ORD50428,CUST1002,2023-11-30,Mobile App,Net Banking,Pending
+ORD50429,CUST1263,2023-11-30,Web,Credit Card,Shipped
+ORD50430,CUST1017,2023-12-01,Mobile App,Debit Card,Returned
+ORD50431,CUST1012,2023-12-02,Mobile App,Credit Card,Returned
+ORD50432,CUST1299,2023-12-02,Marketplace,Debit Card,Delivered
+ORD50433,CUST1049,2023-12-02,Web,UPI,Delivered
+ORD50434,CUST1167,2023-12-04,Web,Debit Card,Delivered
+ORD50435,CUST1012,2023-12-04,Mobile App,Credit Card,Delivered
+ORD50436,CUST1184,2023-12-05,Web,Credit Card,Delivered
+ORD50437,CUST1079,2023-12-05,Marketplace,Net Banking,Delivered
+ORD50438,CUST1106,2023-12-05,Retail Store,Debit Card,Delivered
+ORD50439,CUST1011,2023-12-06,Web,UPI,Delivered
+ORD50440,CUST1250,2023-12-07,Marketplace,UPI,Delivered
+ORD50441,CUST1296,2023-12-08,Web,Net Banking,Pending
+ORD50442,CUST1168,2023-12-09,Retail Store,UPI,Delivered
+ORD50443,CUST1062,2023-12-09,Web,UPI,Delivered
+ORD50444,CUST1178,2023-12-09,Web,UPI,Delivered
+ORD50445,CUST1054,2023-12-10,Web,UPI,Delivered
+ORD50446,CUST1075,2023-12-10,Mobile App,Credit Card,Delivered
+ORD50447,CUST1231,2023-12-11,Web,Debit Card,Delivered
+ORD50448,CUST1234,2023-12-15,Retail Store,Credit Card,Delivered
+ORD50449,CUST1044,2023-12-15,Mobile App,Cash on Delivery,Shipped
+ORD50450,CUST1065,2023-12-15,Mobile App,Debit Card,Delivered
+ORD50451,CUST1276,2023-12-16,Mobile App,UPI,Cancelled
+ORD50452,CUST1042,2023-12-17,Mobile App,Debit Card,Delivered
+ORD50453,CUST1130,2023-12-19,Marketplace,Credit Card,Delivered
+ORD50454,CUST1180,2023-12-20,Marketplace,UPI,Delivered
+ORD50455,CUST1011,2023-12-20,Mobile App,UPI,Pending
+ORD50456,CUST1250,2023-12-21,Web,UPI,Delivered
+ORD50457,CUST1215,2023-12-22,Web,Debit Card,Shipped
+ORD50458,CUST1088,2023-12-23,Web,Credit Card,Delivered
+ORD50459,CUST1300,2023-12-23,Web,Debit Card,Delivered
+ORD50460,CUST1091,2023-12-24,Web,Credit Card,Delivered
+ORD50461,CUST1232,2023-12-24,Retail Store,Net Banking,Delivered
+ORD50462,CUST1045,2023-12-25,Web,UPI,Delivered
+ORD50463,CUST1230,2023-12-25,Mobile App,UPI,Shipped
+ORD50464,CUST1181,2023-12-26,Web,Cash on Delivery,Delivered
+ORD50465,CUST1244,2023-12-26,Mobile App,Debit Card,Delivered
+ORD50466,CUST1232,2023-12-26,Mobile App,Credit Card,Delivered
+ORD50467,CUST1194,2023-12-27,Web,UPI,Delivered
+ORD50468,CUST1038,2023-12-27,Retail Store,UPI,Delivered
+ORD50469,CUST1138,2023-12-27,Web,Net Banking,Delivered
+ORD50470,CUST1161,2023-12-28,Web,Credit Card,Delivered
+ORD50471,CUST1282,2023-12-28,Marketplace,Debit Card,Delivered
+ORD50472,CUST1162,2023-12-28,Web,Debit Card,Returned
+ORD50473,CUST1275,2023-12-29,Marketplace,Cash on Delivery,Shipped
+ORD50474,CUST1033,2023-12-29,Web,Credit Card,Delivered
+ORD50475,CUST1102,2023-12-29,Web,Credit Card,Shipped
+ORD50476,CUST1160,2023-12-29,Marketplace,Debit Card,Delivered
+ORD50477,CUST1251,2023-12-30,Marketplace,UPI,Delivered
+ORD50478,CUST1082,2023-12-31,Marketplace,Credit Card,Pending
+ORD50479,CUST1133,2024-01-02,Web,Credit Card,Delivered
+ORD50480,CUST1060,2024-01-03,Mobile App,Credit Card,Shipped
+ORD50481,CUST1260,2024-01-04,Mobile App,Net Banking,Cancelled
+ORD50482,CUST1296,2024-01-06,Mobile App,Debit Card,Delivered
+ORD50483,CUST1254,2024-01-06,Web,UPI,Pending
+ORD50484,CUST1028,2024-01-07,Marketplace,Debit Card,Shipped
+ORD50485,CUST1209,2024-01-09,Marketplace,UPI,Delivered
+ORD50486,CUST1104,2024-01-10,Web,UPI,Delivered
+ORD50487,CUST1162,2024-01-10,Web,UPI,Delivered
+ORD50488,CUST1186,2024-01-10,Web,UPI,Delivered
+ORD50489,CUST1179,2024-01-11,Retail Store,UPI,Delivered
+ORD50490,CUST1122,2024-01-12,Mobile App,Debit Card,Delivered
+ORD50491,CUST1166,2024-01-14,Mobile App,UPI,Delivered
+ORD50492,CUST1006,2024-01-14,Retail Store,Credit Card,Delivered
+ORD50493,CUST1177,2024-01-17,Mobile App,UPI,Delivered
+ORD50494,CUST1260,2024-01-18,Retail Store,Cash on Delivery,Delivered
+ORD50495,CUST1270,2024-01-18,Web,Net Banking,Delivered
+ORD50496,CUST1072,2024-01-19,Web,Credit Card,Delivered
+ORD50497,CUST1033,2024-01-19,Web,UPI,Delivered
+ORD50498,CUST1124,2024-01-20,Marketplace,UPI,Pending
+ORD50499,CUST1096,2024-01-21,Mobile App,Credit Card,Delivered
+ORD50500,CUST1273,2024-01-25,Marketplace,Cash on Delivery,Delivered
+ORD50501,CUST1214,2024-01-25,Mobile App,Debit Card,Delivered
+ORD50502,CUST1291,2024-01-26,Marketplace,Credit Card,Delivered
+ORD50503,CUST1152,2024-01-28,Web,UPI,Delivered
+ORD50504,CUST1275,2024-01-29,Mobile App,UPI,Delivered
+ORD50505,CUST1212,2024-01-29,Marketplace,Credit Card,Delivered
+ORD50506,CUST1124,2024-01-30,Web,Credit Card,Cancelled
+ORD50507,CUST1009,2024-01-31,Mobile App,Credit Card,Delivered
+ORD50508,CUST1224,2024-02-02,Marketplace,Net Banking,Delivered
+ORD50509,CUST1025,2024-02-02,Retail Store,UPI,Shipped
+ORD50510,CUST1255,2024-02-03,Web,Net Banking,Delivered
+ORD50511,CUST1087,2024-02-05,Web,Debit Card,Delivered
+ORD50512,CUST1060,2024-02-05,Marketplace,UPI,Delivered
+ORD50513,CUST1190,2024-02-07,Mobile App,UPI,Returned
+ORD50514,CUST1291,2024-02-08,Retail Store,Credit Card,Delivered
+ORD50515,CUST1211,2024-02-10,Marketplace,Net Banking,Shipped
+ORD50516,CUST1031,2024-02-10,Web,Net Banking,Delivered
+ORD50517,CUST1091,2024-02-10,Marketplace,Debit Card,Delivered
+ORD50518,CUST1198,2024-02-11,Mobile App,Credit Card,Delivered
+ORD50519,CUST1056,2024-02-11,Marketplace,Credit Card,Delivered
+ORD50520,CUST1072,2024-02-12,Marketplace,Debit Card,Delivered
+ORD50521,CUST1148,2024-02-13,Mobile App,Net Banking,Delivered
+ORD50522,CUST1065,2024-02-13,Retail Store,Credit Card,Delivered
+ORD50523,CUST1160,2024-02-15,Mobile App,Net Banking,Delivered
+ORD50524,CUST1042,2024-02-15,Web,Credit Card,Delivered
+ORD50525,CUST1089,2024-02-17,Mobile App,Net Banking,Shipped
+ORD50526,CUST1283,2024-02-18,Mobile App,UPI,Pending
+ORD50527,CUST1228,2024-02-18,Marketplace,Net Banking,Delivered
+ORD50528,CUST1039,2024-02-19,Mobile App,Credit Card,Delivered
+ORD50529,CUST1094,2024-02-20,Marketplace,Debit Card,Delivered
+ORD50530,CUST1274,2024-02-20,Marketplace,Cash on Delivery,Delivered
+ORD50531,CUST1294,2024-02-21,Mobile App,Cash on Delivery,Delivered
+ORD50532,CUST1050,2024-02-22,Retail Store,Debit Card,Delivered
+ORD50533,CUST1276,2024-02-23,Marketplace,UPI,Returned
+ORD50534,CUST1099,2024-02-24,Marketplace,Cash on Delivery,Delivered
+ORD50535,CUST1042,2024-02-25,Web,Net Banking,Delivered
+ORD50536,CUST1064,2024-02-26,Web,Net Banking,Delivered
+ORD50537,CUST1158,2024-02-26,Mobile App,Net Banking,Delivered
+ORD50538,CUST1297,2024-02-27,Web,Credit Card,Cancelled
+ORD50539,CUST1288,2024-02-27,Marketplace,Debit Card,Delivered
+ORD50540,CUST1028,2024-02-29,Mobile App,Net Banking,Delivered
+ORD50541,CUST1111,2024-03-02,Marketplace,Credit Card,Delivered
+ORD50542,CUST1259,2024-03-02,Web,UPI,Delivered
+ORD50543,CUST1285,2024-03-02,Mobile App,Credit Card,Delivered
+ORD50544,CUST1091,2024-03-03,Retail Store,UPI,Delivered
+ORD50545,CUST1074,2024-03-04,Marketplace,Cash on Delivery,Delivered
+ORD50546,CUST1286,2024-03-05,Web,UPI,Delivered
+ORD50547,CUST1115,2024-03-06,Mobile App,UPI,Shipped
+ORD50548,CUST1226,2024-03-09,Mobile App,Debit Card,Delivered
+ORD50549,CUST1103,2024-03-10,Web,Credit Card,Returned
+ORD50550,CUST1080,2024-03-10,Mobile App,Credit Card,Delivered
+ORD50551,CUST1268,2024-03-12,Retail Store,Debit Card,Pending
+ORD50552,CUST1153,2024-03-12,Marketplace,Credit Card,Delivered
+ORD50553,CUST1158,2024-03-13,Web,Net Banking,Delivered
+ORD50554,CUST1049,2024-03-14,Marketplace,Debit Card,Delivered
+ORD50555,CUST1078,2024-03-15,Retail Store,UPI,Delivered
+ORD50556,CUST1123,2024-03-16,Web,Credit Card,Pending
+ORD50557,CUST1151,2024-03-18,Marketplace,Credit Card,Delivered
+ORD50558,CUST1008,2024-03-18,Marketplace,UPI,Delivered
+ORD50559,CUST1092,2024-03-18,Marketplace,Cash on Delivery,Delivered
+ORD50560,CUST1205,2024-03-19,Web,Net Banking,Returned
+ORD50561,CUST1174,2024-03-19,Retail Store,Net Banking,Shipped
+ORD50562,CUST1178,2024-03-20,Retail Store,Net Banking,Delivered
+ORD50563,CUST1266,2024-03-21,Web,UPI,Delivered
+ORD50564,CUST1082,2024-03-22,Mobile App,Net Banking,Delivered
+ORD50565,CUST1015,2024-03-23,Web,Credit Card,Delivered
+ORD50566,CUST1004,2024-03-24,Mobile App,UPI,Cancelled
+ORD50567,CUST1270,2024-03-24,Marketplace,Debit Card,Pending
+ORD50568,CUST1282,2024-03-25,Marketplace,Credit Card,Shipped
+ORD50569,CUST1160,2024-03-26,Marketplace,Net Banking,Delivered
+ORD50570,CUST1038,2024-03-26,Web,Debit Card,Delivered
+ORD50571,CUST1021,2024-03-27,Web,Credit Card,Delivered
+ORD50572,CUST1099,2024-03-28,Marketplace,Debit Card,Shipped
+ORD50573,CUST1033,2024-03-29,Web,Credit Card,Delivered
+ORD50574,CUST1008,2024-03-29,Web,Cash on Delivery,Delivered
+ORD50575,CUST1082,2024-03-30,Web,UPI,Delivered
+ORD50576,CUST1115,2024-03-30,Marketplace,Net Banking,Delivered
+ORD50577,CUST1249,2024-03-30,Mobile App,Cash on Delivery,Cancelled
+ORD50578,CUST1121,2024-04-01,Marketplace,Debit Card,Delivered
+ORD50579,CUST1215,2024-04-02,Mobile App,UPI,Returned
+ORD50580,CUST1161,2024-04-03,Marketplace,Credit Card,Delivered
+ORD50581,CUST1251,2024-04-03,Marketplace,Net Banking,Delivered
+ORD50582,CUST1098,2024-04-03,Marketplace,Net Banking,Delivered
+ORD50583,CUST1292,2024-04-03,Web,Credit Card,Delivered
+ORD50584,CUST1075,2024-04-04,Web,UPI,Returned
+ORD50585,CUST1035,2024-04-05,Mobile App,Cash on Delivery,Delivered
+ORD50586,CUST1236,2024-04-06,Mobile App,UPI,Pending
+ORD50587,CUST1166,2024-04-06,Marketplace,Credit Card,Pending
+ORD50588,CUST1084,2024-04-08,Marketplace,Net Banking,Returned
+ORD50589,CUST1050,2024-04-08,Web,UPI,Delivered
+ORD50590,CUST1100,2024-04-09,Web,Debit Card,Delivered
+ORD50591,CUST1191,2024-04-10,Marketplace,UPI,Delivered
+ORD50592,CUST1148,2024-04-10,Marketplace,Credit Card,Delivered
+ORD50593,CUST1035,2024-04-10,Web,Credit Card,Delivered
+ORD50594,CUST1083,2024-04-11,Web,Credit Card,Delivered
+ORD50595,CUST1155,2024-04-11,Web,Cash on Delivery,Shipped
+ORD50596,CUST1218,2024-04-12,Web,UPI,Delivered
+ORD50597,CUST1174,2024-04-13,Web,UPI,Delivered
+ORD50598,CUST1026,2024-04-14,Web,Cash on Delivery,Delivered
+ORD50599,CUST1042,2024-04-14,Web,Credit Card,Delivered
+ORD50600,CUST1097,2024-04-14,Web,Net Banking,Delivered
+ORD50601,CUST1211,2024-04-15,Web,Cash on Delivery,Delivered
+ORD50602,CUST1127,2024-04-15,Web,Debit Card,Delivered
+ORD50603,CUST1037,2024-04-16,Web,Credit Card,Delivered
+ORD50604,CUST1078,2024-04-16,Mobile App,UPI,Returned
+ORD50605,CUST1177,2024-04-17,Marketplace,Credit Card,Delivered
+ORD50606,CUST1252,2024-04-17,Marketplace,Net Banking,Delivered
+ORD50607,CUST1071,2024-04-18,Mobile App,Credit Card,Delivered
+ORD50608,CUST1107,2024-04-18,Web,Credit Card,Cancelled
+ORD50609,CUST1070,2024-04-18,Web,Credit Card,Pending
+ORD50610,CUST1127,2024-04-20,Mobile App,Credit Card,Pending
+ORD50611,CUST1138,2024-04-20,Mobile App,Net Banking,Delivered
+ORD50612,CUST1141,2024-04-21,Mobile App,Credit Card,Cancelled
+ORD50613,CUST1047,2024-04-22,Marketplace,UPI,Shipped
+ORD50614,CUST1250,2024-04-22,Mobile App,Credit Card,Delivered
+ORD50615,CUST1169,2024-04-22,Marketplace,UPI,Shipped
+ORD50616,CUST1066,2024-04-24,Web,UPI,Cancelled
+ORD50617,CUST1125,2024-04-24,Web,UPI,Delivered
+ORD50618,CUST1249,2024-04-26,Web,Net Banking,Delivered
+ORD50619,CUST1220,2024-04-27,Mobile App,Credit Card,Shipped
+ORD50620,CUST1285,2024-04-28,Mobile App,Net Banking,Pending
+ORD50621,CUST1169,2024-04-30,Web,UPI,Shipped
+ORD50622,CUST1080,2024-04-30,Web,Credit Card,Delivered
+ORD50623,CUST1044,2024-04-30,Mobile App,Credit Card,Delivered
+ORD50624,CUST1051,2024-04-30,Web,Debit Card,Delivered
+ORD50625,CUST1161,2024-05-01,Web,Credit Card,Delivered
+ORD50626,CUST1237,2024-05-01,Mobile App,Credit Card,Delivered
+ORD50627,CUST1202,2024-05-04,Retail Store,Debit Card,Delivered
+ORD50628,CUST1094,2024-05-04,Web,Credit Card,Cancelled
+ORD50629,CUST1086,2024-05-06,Marketplace,Credit Card,Returned
+ORD50630,CUST1069,2024-05-07,Web,Credit Card,Delivered
+ORD50631,CUST1085,2024-05-07,Mobile App,Debit Card,Delivered
+ORD50632,CUST1024,2024-05-08,Web,Credit Card,Delivered
+ORD50633,CUST1051,2024-05-08,Web,Cash on Delivery,Pending
+ORD50634,CUST1185,2024-05-10,Marketplace,Credit Card,Delivered
+ORD50635,CUST1070,2024-05-10,Mobile App,UPI,Delivered
+ORD50636,CUST1282,2024-05-11,Web,Debit Card,Delivered
+ORD50637,CUST1040,2024-05-11,Retail Store,UPI,Delivered
+ORD50638,CUST1265,2024-05-11,Marketplace,UPI,Delivered
+ORD50639,CUST1254,2024-05-12,Web,UPI,Delivered
+ORD50640,CUST1177,2024-05-13,Mobile App,Credit Card,Delivered
+ORD50641,CUST1084,2024-05-15,Mobile App,Cash on Delivery,Cancelled
+ORD50642,CUST1132,2024-05-16,Web,UPI,Delivered
+ORD50643,CUST1189,2024-05-16,Mobile App,Net Banking,Delivered
+ORD50644,CUST1293,2024-05-16,Web,Net Banking,Returned
+ORD50645,CUST1086,2024-05-17,Marketplace,Cash on Delivery,Delivered
+ORD50646,CUST1199,2024-05-18,Web,Credit Card,Pending
+ORD50647,CUST1251,2024-05-18,Retail Store,Credit Card,Delivered
+ORD50648,CUST1287,2024-05-19,Web,Debit Card,Delivered
+ORD50649,CUST1106,2024-05-22,Web,UPI,Delivered
+ORD50650,CUST1207,2024-05-22,Web,Net Banking,Delivered
+ORD50651,CUST1156,2024-05-23,Retail Store,Net Banking,Delivered
+ORD50652,CUST1210,2024-05-24,Marketplace,Debit Card,Pending
+ORD50653,CUST1103,2024-05-25,Web,Debit Card,Cancelled
+ORD50654,CUST1211,2024-05-26,Mobile App,Net Banking,Delivered
+ORD50655,CUST1267,2024-05-27,Mobile App,Credit Card,Shipped
+ORD50656,CUST1038,2024-05-28,Mobile App,Debit Card,Delivered
+ORD50657,CUST1265,2024-05-29,Web,Credit Card,Shipped
+ORD50658,CUST1076,2024-05-30,Retail Store,Debit Card,Delivered
+ORD50659,CUST1010,2024-05-30,Web,Credit Card,Delivered
+ORD50660,CUST1020,2024-06-01,Marketplace,Debit Card,Delivered
+ORD50661,CUST1154,2024-06-01,Web,Net Banking,Delivered
+ORD50662,CUST1280,2024-06-02,Mobile App,Credit Card,Delivered
+ORD50663,CUST1051,2024-06-02,Mobile App,Debit Card,Delivered
+ORD50664,CUST1299,2024-06-02,Mobile App,UPI,Delivered
+ORD50665,CUST1024,2024-06-02,Mobile App,Credit Card,Delivered
+ORD50666,CUST1182,2024-06-03,Mobile App,Debit Card,Delivered
+ORD50667,CUST1181,2024-06-03,Web,Net Banking,Shipped
+ORD50668,CUST1047,2024-06-06,Web,UPI,Shipped
+ORD50669,CUST1259,2024-06-06,Retail Store,Cash on Delivery,Shipped
+ORD50670,CUST1038,2024-06-06,Web,Credit Card,Delivered
+ORD50671,CUST1046,2024-06-07,Web,Credit Card,Delivered
+ORD50672,CUST1134,2024-06-09,Web,Debit Card,Shipped
+ORD50673,CUST1109,2024-06-10,Mobile App,Credit Card,Delivered
+ORD50674,CUST1118,2024-06-10,Retail Store,Debit Card,Delivered
+ORD50675,CUST1111,2024-06-10,Mobile App,Credit Card,Delivered
+ORD50676,CUST1059,2024-06-11,Web,Debit Card,Delivered
+ORD50677,CUST1182,2024-06-11,Web,UPI,Delivered
+ORD50678,CUST1027,2024-06-13,Web,Net Banking,Delivered
+ORD50679,CUST1173,2024-06-15,Web,Net Banking,Delivered
+ORD50680,CUST1195,2024-06-15,Web,UPI,Delivered
+ORD50681,CUST1126,2024-06-15,Web,UPI,Cancelled
+ORD50682,CUST1238,2024-06-16,Retail Store,Net Banking,Pending
+ORD50683,CUST1190,2024-06-17,Web,Credit Card,Delivered
+ORD50684,CUST1019,2024-06-19,Mobile App,Debit Card,Delivered
+ORD50685,CUST1120,2024-06-19,Web,Debit Card,Delivered
+ORD50686,CUST1093,2024-06-20,Web,Credit Card,Delivered
+ORD50687,CUST1095,2024-06-21,Marketplace,Credit Card,Delivered
+ORD50688,CUST1091,2024-06-21,Web,UPI,Delivered
+ORD50689,CUST1236,2024-06-21,Web,Debit Card,Delivered
+ORD50690,CUST1163,2024-06-22,Marketplace,UPI,Delivered
+ORD50691,CUST1067,2024-06-24,Web,UPI,Returned
+ORD50692,CUST1182,2024-06-24,Web,Debit Card,Shipped
+ORD50693,CUST1122,2024-06-24,Retail Store,Credit Card,Delivered
+ORD50694,CUST1124,2024-06-26,Web,Net Banking,Shipped
+ORD50695,CUST1036,2024-06-26,Marketplace,Debit Card,Shipped
+ORD50696,CUST1260,2024-06-27,Web,Credit Card,Delivered
+ORD50697,CUST1265,2024-06-27,Mobile App,UPI,Shipped
+ORD50698,CUST1118,2024-06-27,Web,Net Banking,Delivered
+ORD50699,CUST1093,2024-06-28,Web,Cash on Delivery,Delivered
+ORD50700,CUST1092,2024-06-28,Retail Store,UPI,Delivered
+ORD50701,CUST1147,2024-06-29,Retail Store,UPI,Delivered
+ORD50702,CUST1231,2024-06-29,Web,Cash on Delivery,Delivered
+ORD50703,CUST1264,2024-06-30,Marketplace,Credit Card,Delivered
+ORD50704,CUST1253,2024-07-01,Web,Debit Card,Delivered
+ORD50705,CUST1194,2024-07-01,Web,UPI,Shipped
+ORD50706,CUST1264,2024-07-02,Web,UPI,Delivered
+ORD50707,CUST1020,2024-07-02,Mobile App,Cash on Delivery,Delivered
+ORD50708,CUST1051,2024-07-03,Marketplace,UPI,Delivered
+ORD50709,CUST1095,2024-07-04,Marketplace,Credit Card,Delivered
+ORD50710,CUST1060,2024-07-05,Marketplace,Credit Card,Cancelled
+ORD50711,CUST1217,2024-07-06,Mobile App,Net Banking,Delivered
+ORD50712,CUST1139,2024-07-07,Web,Net Banking,Shipped
+ORD50713,CUST1065,2024-07-07,Web,Credit Card,Delivered
+ORD50714,CUST1291,2024-07-07,Mobile App,UPI,Delivered
+ORD50715,CUST1079,2024-07-07,Retail Store,UPI,Delivered
+ORD50716,CUST1187,2024-07-10,Mobile App,Debit Card,Delivered
+ORD50717,CUST1178,2024-07-12,Mobile App,UPI,Delivered
+ORD50718,CUST1188,2024-07-13,Retail Store,Net Banking,Shipped
+ORD50719,CUST1255,2024-07-15,Marketplace,Debit Card,Delivered
+ORD50720,CUST1099,2024-07-15,Marketplace,Credit Card,Shipped
+ORD50721,CUST1134,2024-07-16,Mobile App,Cash on Delivery,Delivered
+ORD50722,CUST1298,2024-07-16,Web,UPI,Delivered
+ORD50723,CUST1154,2024-07-19,Marketplace,Net Banking,Delivered
+ORD50724,CUST1055,2024-07-20,Mobile App,Credit Card,Cancelled
+ORD50725,CUST1017,2024-07-21,Marketplace,Net Banking,Delivered
+ORD50726,CUST1168,2024-07-21,Web,Debit Card,Delivered
+ORD50727,CUST1047,2024-07-22,Retail Store,Net Banking,Delivered
+ORD50728,CUST1203,2024-07-22,Web,Debit Card,Delivered
+ORD50729,CUST1149,2024-07-23,Marketplace,UPI,Returned
+ORD50730,CUST1243,2024-07-23,Marketplace,Credit Card,Returned
+ORD50731,CUST1020,2024-07-24,Web,Debit Card,Delivered
+ORD50732,CUST1245,2024-07-24,Marketplace,UPI,Delivered
+ORD50733,CUST1255,2024-07-26,Mobile App,Net Banking,Delivered
+ORD50734,CUST1116,2024-07-26,Mobile App,Net Banking,Delivered
+ORD50735,CUST1179,2024-07-26,Web,Credit Card,Delivered
+ORD50736,CUST1082,2024-07-28,Web,UPI,Delivered
+ORD50737,CUST1169,2024-07-29,Web,Credit Card,Cancelled
+ORD50738,CUST1294,2024-07-30,Mobile App,Net Banking,Shipped
+ORD50739,CUST1013,2024-07-30,Mobile App,Debit Card,Delivered
+ORD50740,CUST1166,2024-07-30,Marketplace,Net Banking,Delivered
+ORD50741,CUST1190,2024-07-31,Marketplace,Debit Card,Delivered
+ORD50742,CUST1085,2024-08-01,Web,UPI,Returned
+ORD50743,CUST1051,2024-08-01,Web,Credit Card,Delivered
+ORD50744,CUST1042,2024-08-04,Marketplace,UPI,Delivered
+ORD50745,CUST1033,2024-08-04,Retail Store,Credit Card,Cancelled
+ORD50746,CUST1241,2024-08-07,Web,UPI,Delivered
+ORD50747,CUST1163,2024-08-07,Mobile App,Credit Card,Shipped
+ORD50748,CUST1255,2024-08-07,Web,Credit Card,Delivered
+ORD50749,CUST1133,2024-08-09,Retail Store,Net Banking,Delivered
+ORD50750,CUST1171,2024-08-10,Web,Net Banking,Delivered
+ORD50751,CUST1284,2024-08-10,Marketplace,Debit Card,Pending
+ORD50752,CUST1116,2024-08-10,Marketplace,Cash on Delivery,Shipped
+ORD50753,CUST1152,2024-08-10,Web,Credit Card,Delivered
+ORD50754,CUST1198,2024-08-11,Marketplace,Cash on Delivery,Delivered
+ORD50755,CUST1193,2024-08-11,Web,Debit Card,Delivered
+ORD50756,CUST1295,2024-08-11,Mobile App,UPI,Delivered
+ORD50757,CUST1248,2024-08-12,Mobile App,Cash on Delivery,Delivered
+ORD50758,CUST1174,2024-08-13,Retail Store,UPI,Delivered
+ORD50759,CUST1169,2024-08-14,Mobile App,Credit Card,Delivered
+ORD50760,CUST1237,2024-08-14,Marketplace,Credit Card,Delivered
+ORD50761,CUST1227,2024-08-16,Mobile App,UPI,Delivered
+ORD50762,CUST1265,2024-08-17,Web,Net Banking,Delivered
+ORD50763,CUST1299,2024-08-17,Retail Store,UPI,Delivered
+ORD50764,CUST1228,2024-08-19,Web,Net Banking,Delivered
+ORD50765,CUST1048,2024-08-21,Retail Store,Credit Card,Delivered
+ORD50766,CUST1146,2024-08-22,Retail Store,Credit Card,Delivered
+ORD50767,CUST1017,2024-08-22,Marketplace,UPI,Delivered
+ORD50768,CUST1054,2024-08-22,Mobile App,Net Banking,Delivered
+ORD50769,CUST1059,2024-08-22,Mobile App,UPI,Delivered
+ORD50770,CUST1209,2024-08-23,Retail Store,Credit Card,Delivered
+ORD50771,CUST1112,2024-08-24,Mobile App,UPI,Shipped
+ORD50772,CUST1250,2024-08-24,Marketplace,Debit Card,Delivered
+ORD50773,CUST1188,2024-08-25,Marketplace,Net Banking,Shipped
+ORD50774,CUST1289,2024-08-25,Marketplace,Credit Card,Delivered
+ORD50775,CUST1009,2024-08-25,Mobile App,Cash on Delivery,Delivered
+ORD50776,CUST1046,2024-08-26,Mobile App,Credit Card,Delivered
+ORD50777,CUST1245,2024-08-27,Web,Credit Card,Delivered
+ORD50778,CUST1035,2024-08-28,Web,UPI,Returned
+ORD50779,CUST1086,2024-08-28,Web,Debit Card,Delivered
+ORD50780,CUST1191,2024-08-30,Marketplace,UPI,Cancelled
+ORD50781,CUST1129,2024-08-31,Web,Net Banking,Delivered
+ORD50782,CUST1249,2024-08-31,Retail Store,Cash on Delivery,Shipped
+ORD50783,CUST1036,2024-08-31,Web,UPI,Delivered
+ORD50784,CUST1023,2024-09-01,Web,Credit Card,Pending
+ORD50785,CUST1266,2024-09-01,Marketplace,UPI,Delivered
+ORD50786,CUST1185,2024-09-02,Mobile App,UPI,Delivered
+ORD50787,CUST1044,2024-09-02,Web,Credit Card,Delivered
+ORD50788,CUST1080,2024-09-02,Marketplace,Credit Card,Delivered
+ORD50789,CUST1055,2024-09-04,Web,Debit Card,Pending
+ORD50790,CUST1300,2024-09-04,Retail Store,Cash on Delivery,Returned
+ORD50791,CUST1094,2024-09-05,Web,Cash on Delivery,Delivered
+ORD50792,CUST1109,2024-09-05,Marketplace,UPI,Delivered
+ORD50793,CUST1300,2024-09-05,Mobile App,UPI,Delivered
+ORD50794,CUST1025,2024-09-06,Retail Store,Debit Card,Delivered
+ORD50795,CUST1256,2024-09-08,Web,Cash on Delivery,Delivered
+ORD50796,CUST1235,2024-09-08,Retail Store,UPI,Delivered
+ORD50797,CUST1032,2024-09-10,Web,Cash on Delivery,Delivered
+ORD50798,CUST1091,2024-09-11,Mobile App,Net Banking,Delivered
+ORD50799,CUST1270,2024-09-11,Mobile App,Credit Card,Delivered
+ORD50800,CUST1126,2024-09-11,Mobile App,UPI,Delivered
+ORD50801,CUST1222,2024-09-12,Mobile App,Credit Card,Delivered
+ORD50802,CUST1040,2024-09-12,Marketplace,UPI,Returned
+ORD50803,CUST1234,2024-09-13,Web,UPI,Delivered
+ORD50804,CUST1100,2024-09-13,Web,Debit Card,Delivered
+ORD50805,CUST1075,2024-09-14,Marketplace,UPI,Delivered
+ORD50806,CUST1040,2024-09-14,Mobile App,Net Banking,Delivered
+ORD50807,CUST1237,2024-09-16,Mobile App,Net Banking,Returned
+ORD50808,CUST1078,2024-09-17,Mobile App,UPI,Delivered
+ORD50809,CUST1179,2024-09-18,Retail Store,Net Banking,Delivered
+ORD50810,CUST1174,2024-09-19,Web,UPI,Delivered
+ORD50811,CUST1114,2024-09-19,Retail Store,Net Banking,Delivered
+ORD50812,CUST1090,2024-09-20,Web,UPI,Delivered
+ORD50813,CUST1005,2024-09-20,Marketplace,Debit Card,Delivered
+ORD50814,CUST1201,2024-09-22,Retail Store,Credit Card,Pending
+ORD50815,CUST1149,2024-09-22,Web,Debit Card,Delivered
+ORD50816,CUST1271,2024-09-23,Marketplace,Debit Card,Delivered
+ORD50817,CUST1061,2024-09-23,Web,Credit Card,Delivered
+ORD50818,CUST1173,2024-09-24,Web,Net Banking,Delivered
+ORD50819,CUST1014,2024-09-24,Mobile App,UPI,Delivered
+ORD50820,CUST1009,2024-09-24,Marketplace,UPI,Delivered
+ORD50821,CUST1139,2024-09-24,Web,UPI,Delivered
+ORD50822,CUST1288,2024-09-25,Retail Store,Debit Card,Delivered
+ORD50823,CUST1201,2024-09-26,Web,UPI,Delivered
+ORD50824,CUST1060,2024-09-27,Web,Net Banking,Delivered
+ORD50825,CUST1265,2024-09-27,Web,Credit Card,Delivered
+ORD50826,CUST1104,2024-09-30,Web,Credit Card,Delivered
+ORD50827,CUST1112,2024-10-01,Web,Net Banking,Delivered
+ORD50828,CUST1158,2024-10-01,Web,Cash on Delivery,Pending
+ORD50829,CUST1269,2024-10-02,Web,Credit Card,Delivered
+ORD50830,CUST1186,2024-10-02,Web,Debit Card,Delivered
+ORD50831,CUST1110,2024-10-02,Mobile App,UPI,Delivered
+ORD50832,CUST1103,2024-10-03,Web,Net Banking,Pending
+ORD50833,CUST1047,2024-10-03,Marketplace,Credit Card,Delivered
+ORD50834,CUST1133,2024-10-04,Mobile App,Net Banking,Returned
+ORD50835,CUST1293,2024-10-05,Web,UPI,Delivered
+ORD50836,CUST1189,2024-10-05,Web,Debit Card,Cancelled
+ORD50837,CUST1119,2024-10-06,Web,Credit Card,Delivered
+ORD50838,CUST1138,2024-10-06,Retail Store,UPI,Pending
+ORD50839,CUST1058,2024-10-06,Mobile App,Net Banking,Delivered
+ORD50840,CUST1086,2024-10-06,Web,Credit Card,Pending
+ORD50841,CUST1175,2024-10-06,Web,Cash on Delivery,Delivered
+ORD50842,CUST1124,2024-10-07,Marketplace,Net Banking,Delivered
+ORD50843,CUST1008,2024-10-07,Marketplace,Cash on Delivery,Delivered
+ORD50844,CUST1116,2024-10-07,Marketplace,Credit Card,Delivered
+ORD50845,CUST1160,2024-10-08,Marketplace,Net Banking,Delivered
+ORD50846,CUST1088,2024-10-11,Web,Credit Card,Delivered
+ORD50847,CUST1152,2024-10-11,Marketplace,Credit Card,Delivered
+ORD50848,CUST1181,2024-10-11,Web,UPI,Delivered
+ORD50849,CUST1087,2024-10-11,Mobile App,UPI,Delivered
+ORD50850,CUST1154,2024-10-12,Web,UPI,Delivered
+ORD50851,CUST1097,2024-10-12,Mobile App,UPI,Delivered
+ORD50852,CUST1124,2024-10-12,Web,Credit Card,Delivered
+ORD50853,CUST1154,2024-10-13,Web,Net Banking,Delivered
+ORD50854,CUST1213,2024-10-15,Mobile App,Credit Card,Cancelled
+ORD50855,CUST1022,2024-10-17,Retail Store,UPI,Delivered
+ORD50856,CUST1244,2024-10-17,Web,Debit Card,Delivered
+ORD50857,CUST1227,2024-10-19,Web,Net Banking,Delivered
+ORD50858,CUST1195,2024-10-19,Web,Debit Card,Delivered
+ORD50859,CUST1058,2024-10-20,Mobile App,Cash on Delivery,Pending
+ORD50860,CUST1103,2024-10-21,Marketplace,Debit Card,Returned
+ORD50861,CUST1223,2024-10-22,Web,Credit Card,Delivered
+ORD50862,CUST1281,2024-10-23,Web,Cash on Delivery,Delivered
+ORD50863,CUST1294,2024-10-23,Web,UPI,Returned
+ORD50864,CUST1032,2024-10-24,Retail Store,UPI,Delivered
+ORD50865,CUST1205,2024-10-25,Web,Credit Card,Shipped
+ORD50866,CUST1242,2024-10-25,Web,UPI,Delivered
+ORD50867,CUST1225,2024-10-25,Marketplace,UPI,Delivered
+ORD50868,CUST1127,2024-10-26,Retail Store,Credit Card,Delivered
+ORD50869,CUST1214,2024-10-26,Marketplace,Debit Card,Delivered
+ORD50870,CUST1120,2024-10-26,Web,UPI,Delivered
+ORD50871,CUST1042,2024-10-26,Mobile App,Net Banking,Delivered
+ORD50872,CUST1253,2024-10-27,Mobile App,Debit Card,Delivered
+ORD50873,CUST1043,2024-10-28,Marketplace,Net Banking,Cancelled
+ORD50874,CUST1197,2024-10-28,Marketplace,Credit Card,Delivered
+ORD50875,CUST1114,2024-10-30,Web,UPI,Shipped
+ORD50876,CUST1293,2024-10-30,Mobile App,UPI,Delivered
+ORD50877,CUST1109,2024-10-30,Marketplace,Net Banking,Delivered
+ORD50878,CUST1264,2024-10-31,Mobile App,Net Banking,Delivered
+ORD50879,CUST1090,2024-10-31,Mobile App,UPI,Delivered
+ORD50880,CUST1035,2024-10-31,Retail Store,Debit Card,Delivered
+ORD50881,CUST1118,2024-11-01,Retail Store,Credit Card,Delivered
+ORD50882,CUST1151,2024-11-02,Marketplace,Debit Card,Delivered
+ORD50883,CUST1300,2024-11-02,Mobile App,Cash on Delivery,Returned
+ORD50884,CUST1231,2024-11-03,Web,Debit Card,Delivered
+ORD50885,CUST1126,2024-11-03,Web,Debit Card,Delivered
+ORD50886,CUST1025,2024-11-03,Web,UPI,Delivered
+ORD50887,CUST1113,2024-11-05,Mobile App,Cash on Delivery,Delivered
+ORD50888,CUST1163,2024-11-05,Marketplace,UPI,Cancelled
+ORD50889,CUST1141,2024-11-06,Marketplace,Credit Card,Delivered
+ORD50890,CUST1298,2024-11-06,Retail Store,UPI,Delivered
+ORD50891,CUST1088,2024-11-07,Web,Debit Card,Delivered
+ORD50892,CUST1072,2024-11-07,Web,Net Banking,Delivered
+ORD50893,CUST1087,2024-11-08,Web,Debit Card,Delivered
+ORD50894,CUST1036,2024-11-08,Mobile App,Credit Card,Delivered
+ORD50895,CUST1038,2024-11-09,Retail Store,Cash on Delivery,Delivered
+ORD50896,CUST1087,2024-11-10,Marketplace,Cash on Delivery,Delivered
+ORD50897,CUST1066,2024-11-11,Mobile App,UPI,Cancelled
+ORD50898,CUST1104,2024-11-12,Web,Cash on Delivery,Delivered
+ORD50899,CUST1226,2024-11-12,Marketplace,Credit Card,Delivered
+ORD50900,CUST1086,2024-11-13,Marketplace,UPI,Cancelled
+ORD50901,CUST1242,2024-11-13,Marketplace,Credit Card,Delivered
+ORD50902,CUST1130,2024-11-14,Web,Net Banking,Delivered
+ORD50903,CUST1045,2024-11-15,Mobile App,Debit Card,Shipped
+ORD50904,CUST1251,2024-11-15,Mobile App,Cash on Delivery,Cancelled
+ORD50905,CUST1071,2024-11-15,Retail Store,Credit Card,Delivered
+ORD50906,CUST1156,2024-11-16,Web,Debit Card,Delivered
+ORD50907,CUST1001,2024-11-18,Mobile App,UPI,Delivered
+ORD50908,CUST1177,2024-11-18,Web,Credit Card,Pending
+ORD50909,CUST1215,2024-11-19,Web,Debit Card,Delivered
+ORD50910,CUST1033,2024-11-19,Web,UPI,Shipped
+ORD50911,CUST1133,2024-11-20,Marketplace,Credit Card,Delivered
+ORD50912,CUST1020,2024-11-21,Mobile App,UPI,Delivered
+ORD50913,CUST1194,2024-11-21,Mobile App,Net Banking,Delivered
+ORD50914,CUST1286,2024-11-21,Mobile App,Debit Card,Shipped
+ORD50915,CUST1205,2024-11-21,Web,Credit Card,Delivered
+ORD50916,CUST1105,2024-11-22,Marketplace,Net Banking,Delivered
+ORD50917,CUST1208,2024-11-22,Mobile App,Credit Card,Delivered
+ORD50918,CUST1285,2024-11-24,Web,Debit Card,Delivered
+ORD50919,CUST1163,2024-11-24,Mobile App,Credit Card,Delivered
+ORD50920,CUST1101,2024-11-26,Retail Store,Cash on Delivery,Delivered
+ORD50921,CUST1047,2024-11-27,Web,UPI,Cancelled
+ORD50922,CUST1192,2024-11-28,Retail Store,Debit Card,Delivered
+ORD50923,CUST1287,2024-11-28,Web,Net Banking,Delivered
+ORD50924,CUST1199,2024-11-28,Web,UPI,Delivered
+ORD50925,CUST1275,2024-11-28,Retail Store,UPI,Delivered
+ORD50926,CUST1027,2024-11-28,Retail Store,Credit Card,Delivered
+ORD50927,CUST1036,2024-11-29,Web,UPI,Delivered
+ORD50928,CUST1022,2024-11-29,Marketplace,Credit Card,Delivered
+ORD50929,CUST1272,2024-11-29,Mobile App,Credit Card,Delivered
+ORD50930,CUST1133,2024-11-29,Mobile App,Net Banking,Returned
+ORD50931,CUST1191,2024-11-30,Marketplace,UPI,Returned
+ORD50932,CUST1039,2024-11-30,Mobile App,UPI,Shipped
+ORD50933,CUST1010,2024-12-02,Web,UPI,Delivered
+ORD50934,CUST1089,2024-12-02,Mobile App,Cash on Delivery,Delivered
+ORD50935,CUST1244,2024-12-04,Marketplace,Debit Card,Delivered
+ORD50936,CUST1059,2024-12-05,Mobile App,Credit Card,Pending
+ORD50937,CUST1249,2024-12-06,Mobile App,UPI,Delivered
+ORD50938,CUST1094,2024-12-06,Marketplace,Cash on Delivery,Returned
+ORD50939,CUST1220,2024-12-07,Web,Credit Card,Delivered
+ORD50940,CUST1137,2024-12-08,Web,Net Banking,Shipped
+ORD50941,CUST1097,2024-12-08,Web,Net Banking,Delivered
+ORD50942,CUST1094,2024-12-09,Mobile App,Net Banking,Shipped
+ORD50943,CUST1089,2024-12-09,Mobile App,UPI,Delivered
+ORD50944,CUST1101,2024-12-09,Marketplace,Debit Card,Shipped
+ORD50945,CUST1152,2024-12-09,Retail Store,UPI,Delivered
+ORD50946,CUST1146,2024-12-10,Web,Cash on Delivery,Delivered
+ORD50947,CUST1200,2024-12-10,Web,UPI,Cancelled
+ORD50948,CUST1205,2024-12-10,Mobile App,UPI,Delivered
+ORD50949,CUST1116,2024-12-12,Mobile App,Net Banking,Cancelled
+ORD50950,CUST1013,2024-12-12,Retail Store,Net Banking,Delivered
+ORD50951,CUST1161,2024-12-12,Mobile App,Debit Card,Delivered
+ORD50952,CUST1300,2024-12-14,Web,Net Banking,Delivered
+ORD50953,CUST1275,2024-12-14,Mobile App,UPI,Delivered
+ORD50954,CUST1130,2024-12-14,Web,UPI,Delivered
+ORD50955,CUST1278,2024-12-16,Mobile App,UPI,Returned
+ORD50956,CUST1277,2024-12-17,Web,UPI,Delivered
+ORD50957,CUST1110,2024-12-17,Mobile App,Net Banking,Cancelled
+ORD50958,CUST1003,2024-12-18,Mobile App,Debit Card,Delivered
+ORD50959,CUST1169,2024-12-19,Mobile App,Net Banking,Delivered
+ORD50960,CUST1018,2024-12-21,Mobile App,Credit Card,Delivered
+ORD50961,CUST1228,2024-12-22,Mobile App,Credit Card,Delivered
+ORD50962,CUST1030,2024-12-22,Marketplace,Debit Card,Delivered
+ORD50963,CUST1051,2024-12-24,Web,UPI,Shipped
+ORD50964,CUST1274,2024-12-24,Marketplace,Net Banking,Delivered
+ORD50965,CUST1171,2024-12-25,Mobile App,Cash on Delivery,Delivered
+ORD50966,CUST1124,2024-12-25,Marketplace,Cash on Delivery,Delivered
+ORD50967,CUST1040,2024-12-25,Mobile App,UPI,Shipped
+ORD50968,CUST1254,2024-12-25,Web,Debit Card,Shipped
+ORD50969,CUST1150,2024-12-26,Retail Store,UPI,Shipped
+ORD50970,CUST1209,2024-12-28,Marketplace,Cash on Delivery,Shipped
+ORD50971,CUST1015,2024-12-29,Retail Store,Net Banking,Delivered
+ORD50972,CUST1027,2024-12-29,Mobile App,Credit Card,Delivered
+ORD50973,CUST1208,2024-12-29,Marketplace,Debit Card,Delivered
+ORD50974,CUST1109,2024-12-29,Marketplace,Credit Card,Delivered
+ORD50975,CUST1232,2024-12-31,Mobile App,Cash on Delivery,Delivered
+ORD50976,CUST1100,2024-12-31,Retail Store,Credit Card,Delivered
+ORD50977,CUST1083,2024-12-31,Marketplace,Debit Card,Returned
+ORD50978,CUST1136,2024-12-31,Web,Credit Card,Delivered
+ORD50979,CUST1034,2024-12-31,Web,UPI,Delivered
+ORD50980,CUST1227,2025-01-01,Mobile App,UPI,Delivered
+ORD50981,CUST1187,2025-01-01,Mobile App,Debit Card,Delivered
+ORD50982,CUST1026,2025-01-02,Mobile App,Credit Card,Delivered
+ORD50983,CUST1280,2025-01-02,Mobile App,Debit Card,Delivered
+ORD50984,CUST1278,2025-01-02,Marketplace,Cash on Delivery,Delivered
+ORD50985,CUST1209,2025-01-03,Marketplace,Credit Card,Delivered
+ORD50986,CUST1143,2025-01-03,Web,Net Banking,Delivered
+ORD50987,CUST1138,2025-01-03,Web,Credit Card,Delivered
+ORD50988,CUST1110,2025-01-04,Marketplace,Debit Card,Delivered
+ORD50989,CUST1181,2025-01-04,Marketplace,Debit Card,Pending
+ORD50990,CUST1210,2025-01-06,Web,Credit Card,Delivered
+ORD50991,CUST1260,2025-01-06,Mobile App,Debit Card,Shipped
+ORD50992,CUST1083,2025-01-06,Web,UPI,Shipped
+ORD50993,CUST1240,2025-01-07,Mobile App,UPI,Delivered
+ORD50994,CUST1214,2025-01-07,Retail Store,Cash on Delivery,Delivered
+ORD50995,CUST1196,2025-01-08,Web,UPI,Delivered
+ORD50996,CUST1125,2025-01-09,Marketplace,Credit Card,Delivered
+ORD50997,CUST1286,2025-01-10,Mobile App,UPI,Cancelled
+ORD50998,CUST1144,2025-01-13,Retail Store,Debit Card,Delivered
+ORD50999,CUST1120,2025-01-13,Marketplace,Cash on Delivery,Delivered
+ORD51000,CUST1057,2025-01-14,Web,UPI,Delivered
+ORD51001,CUST1126,2025-01-15,Mobile App,UPI,Delivered
+ORD51002,CUST1061,2025-01-15,Marketplace,Net Banking,Delivered
+ORD51003,CUST1087,2025-01-16,Web,Debit Card,Cancelled
+ORD51004,CUST1259,2025-01-16,Marketplace,Credit Card,Delivered
+ORD51005,CUST1225,2025-01-17,Web,Debit Card,Cancelled
+ORD51006,CUST1173,2025-01-19,Web,Cash on Delivery,Delivered
+ORD51007,CUST1286,2025-01-19,Web,UPI,Delivered
+ORD51008,CUST1127,2025-01-20,Web,UPI,Cancelled
+ORD51009,CUST1119,2025-01-22,Retail Store,Cash on Delivery,Shipped
+ORD51010,CUST1233,2025-01-24,Web,UPI,Delivered
+ORD51011,CUST1065,2025-01-25,Mobile App,UPI,Returned
+ORD51012,CUST1274,2025-01-26,Mobile App,Debit Card,Delivered
+ORD51013,CUST1012,2025-01-26,Marketplace,UPI,Delivered
+ORD51014,CUST1048,2025-01-26,Retail Store,Net Banking,Delivered
+ORD51015,CUST1171,2025-01-26,Mobile App,UPI,Pending
+ORD51016,CUST1300,2025-01-27,Marketplace,Net Banking,Delivered
+ORD51017,CUST1204,2025-01-27,Web,UPI,Delivered
+ORD51018,CUST1005,2025-01-28,Mobile App,Debit Card,Delivered
+ORD51019,CUST1259,2025-01-29,Web,UPI,Delivered
+ORD51020,CUST1185,2025-01-29,Marketplace,Debit Card,Delivered
+ORD51021,CUST1114,2025-01-30,Mobile App,UPI,Shipped
+ORD51022,CUST1080,2025-01-31,Web,Debit Card,Pending
+ORD51023,CUST1061,2025-02-01,Marketplace,UPI,Delivered
+ORD51024,CUST1076,2025-02-01,Mobile App,Net Banking,Delivered
+ORD51025,CUST1001,2025-02-01,Mobile App,Credit Card,Returned
+ORD51026,CUST1149,2025-02-02,Web,Net Banking,Delivered
+ORD51027,CUST1111,2025-02-04,Retail Store,Net Banking,Delivered
+ORD51028,CUST1182,2025-02-04,Mobile App,Credit Card,Delivered
+ORD51029,CUST1224,2025-02-06,Marketplace,UPI,Pending
+ORD51030,CUST1132,2025-02-06,Web,Cash on Delivery,Delivered
+ORD51031,CUST1138,2025-02-07,Mobile App,Credit Card,Pending
+ORD51032,CUST1215,2025-02-07,Web,UPI,Delivered
+ORD51033,CUST1215,2025-02-07,Mobile App,Debit Card,Delivered
+ORD51034,CUST1286,2025-02-07,Mobile App,UPI,Delivered
+ORD51035,CUST1156,2025-02-09,Marketplace,Credit Card,Delivered
+ORD51036,CUST1051,2025-02-10,Retail Store,UPI,Delivered
+ORD51037,CUST1159,2025-02-10,Web,UPI,Delivered
+ORD51038,CUST1072,2025-02-11,Marketplace,Cash on Delivery,Delivered
+ORD51039,CUST1148,2025-02-11,Web,Net Banking,Delivered
+ORD51040,CUST1183,2025-02-12,Web,Debit Card,Delivered
+ORD51041,CUST1061,2025-02-13,Web,UPI,Delivered
+ORD51042,CUST1124,2025-02-13,Web,Debit Card,Delivered
+ORD51043,CUST1006,2025-02-14,Marketplace,Debit Card,Cancelled
+ORD51044,CUST1095,2025-02-14,Mobile App,Credit Card,Pending
+ORD51045,CUST1287,2025-02-15,Mobile App,Net Banking,Delivered
+ORD51046,CUST1152,2025-02-15,Marketplace,Debit Card,Delivered
+ORD51047,CUST1160,2025-02-16,Retail Store,Net Banking,Delivered
+ORD51048,CUST1210,2025-02-18,Mobile App,Cash on Delivery,Delivered
+ORD51049,CUST1267,2025-02-18,Mobile App,Credit Card,Delivered
+ORD51050,CUST1273,2025-02-19,Marketplace,Net Banking,Returned
+ORD51051,CUST1003,2025-02-20,Web,UPI,Delivered
+ORD51052,CUST1283,2025-02-20,Retail Store,UPI,Delivered
+ORD51053,CUST1081,2025-02-21,Web,Debit Card,Delivered
+ORD51054,CUST1246,2025-02-21,Web,UPI,Cancelled
+ORD51055,CUST1030,2025-02-21,Marketplace,Net Banking,Delivered
+ORD51056,CUST1104,2025-02-22,Web,Debit Card,Delivered
+ORD51057,CUST1097,2025-02-23,Web,Debit Card,Returned
+ORD51058,CUST1266,2025-02-23,Mobile App,Credit Card,Shipped
+ORD51059,CUST1109,2025-02-23,Web,Credit Card,Delivered
+ORD51060,CUST1213,2025-02-23,Mobile App,Debit Card,Delivered
+ORD51061,CUST1118,2025-02-24,Web,Net Banking,Delivered
+ORD51062,CUST1053,2025-02-25,Web,Credit Card,Delivered
+ORD51063,CUST1225,2025-02-26,Mobile App,Credit Card,Pending
+ORD51064,CUST1286,2025-02-27,Mobile App,UPI,Delivered
+ORD51065,CUST1254,2025-02-28,Web,Credit Card,Cancelled
+ORD51066,CUST1075,2025-03-01,Marketplace,Cash on Delivery,Returned
+ORD51067,CUST1249,2025-03-02,Mobile App,Credit Card,Pending
+ORD51068,CUST1205,2025-03-02,Web,Cash on Delivery,Delivered
+ORD51069,CUST1149,2025-03-03,Marketplace,Net Banking,Delivered
+ORD51070,CUST1209,2025-03-03,Mobile App,UPI,Delivered
+ORD51071,CUST1177,2025-03-04,Web,Net Banking,Delivered
+ORD51072,CUST1273,2025-03-07,Web,Net Banking,Shipped
+ORD51073,CUST1082,2025-03-08,Web,UPI,Shipped
+ORD51074,CUST1200,2025-03-08,Web,UPI,Delivered
+ORD51075,CUST1048,2025-03-08,Web,Credit Card,Delivered
+ORD51076,CUST1295,2025-03-09,Web,Credit Card,Delivered
+ORD51077,CUST1096,2025-03-11,Web,Cash on Delivery,Shipped
+ORD51078,CUST1018,2025-03-11,Mobile App,Debit Card,Delivered
+ORD51079,CUST1235,2025-03-13,Web,Debit Card,Shipped
+ORD51080,CUST1012,2025-03-13,Web,Credit Card,Delivered
+ORD51081,CUST1050,2025-03-13,Web,Net Banking,Delivered
+ORD51082,CUST1059,2025-03-14,Web,Net Banking,Delivered
+ORD51083,CUST1107,2025-03-15,Web,UPI,Delivered
+ORD51084,CUST1173,2025-03-15,Mobile App,UPI,Delivered
+ORD51085,CUST1174,2025-03-15,Marketplace,Debit Card,Pending
+ORD51086,CUST1128,2025-03-15,Marketplace,Credit Card,Returned
+ORD51087,CUST1265,2025-03-15,Mobile App,UPI,Delivered
+ORD51088,CUST1025,2025-03-16,Marketplace,Credit Card,Delivered
+ORD51089,CUST1054,2025-03-16,Marketplace,UPI,Returned
+ORD51090,CUST1061,2025-03-17,Mobile App,UPI,Returned
+ORD51091,CUST1049,2025-03-17,Marketplace,UPI,Delivered
+ORD51092,CUST1174,2025-03-17,Web,Debit Card,Delivered
+ORD51093,CUST1224,2025-03-17,Marketplace,Debit Card,Delivered
+ORD51094,CUST1121,2025-03-18,Mobile App,Debit Card,Delivered
+ORD51095,CUST1151,2025-03-19,Marketplace,Debit Card,Delivered
+ORD51096,CUST1230,2025-03-20,Marketplace,UPI,Delivered
+ORD51097,CUST1236,2025-03-21,Web,Credit Card,Delivered
+ORD51098,CUST1141,2025-03-23,Marketplace,Debit Card,Delivered
+ORD51099,CUST1220,2025-03-24,Web,Credit Card,Delivered
+ORD51100,CUST1264,2025-03-24,Mobile App,Net Banking,Delivered
+ORD51101,CUST1139,2025-03-25,Mobile App,Net Banking,Delivered
+ORD51102,CUST1228,2025-03-25,Marketplace,Credit Card,Delivered
+ORD51103,CUST1204,2025-03-25,Web,Credit Card,Delivered
+ORD51104,CUST1149,2025-03-26,Mobile App,Net Banking,Delivered
+ORD51105,CUST1149,2025-03-26,Web,Debit Card,Delivered
+ORD51106,CUST1108,2025-03-26,Web,UPI,Delivered
+ORD51107,CUST1260,2025-03-26,Web,UPI,Delivered
+ORD51108,CUST1065,2025-03-27,Mobile App,Net Banking,Shipped
+ORD51109,CUST1087,2025-03-27,Web,Net Banking,Delivered
+ORD51110,CUST1088,2025-03-28,Marketplace,UPI,Shipped
+ORD51111,CUST1057,2025-03-28,Web,Net Banking,Delivered
+ORD51112,CUST1107,2025-03-28,Web,Net Banking,Delivered
+ORD51113,CUST1212,2025-03-29,Web,Debit Card,Delivered
+ORD51114,CUST1109,2025-03-31,Web,UPI,Delivered
+ORD51115,CUST1045,2025-04-01,Retail Store,Net Banking,Delivered
+ORD51116,CUST1054,2025-04-01,Retail Store,Credit Card,Delivered
+ORD51117,CUST1137,2025-04-01,Retail Store,Credit Card,Delivered
+ORD51118,CUST1142,2025-04-01,Web,Debit Card,Delivered
+ORD51119,CUST1114,2025-04-02,Marketplace,Credit Card,Delivered
+ORD51120,CUST1034,2025-04-02,Web,UPI,Delivered
+ORD51121,CUST1146,2025-04-04,Web,Debit Card,Shipped
+ORD51122,CUST1261,2025-04-04,Marketplace,Credit Card,Delivered
+ORD51123,CUST1134,2025-04-04,Web,Net Banking,Delivered
+ORD51124,CUST1166,2025-04-05,Web,Credit Card,Shipped
+ORD51125,CUST1212,2025-04-06,Retail Store,Net Banking,Delivered
+ORD51126,CUST1029,2025-04-06,Web,Debit Card,Returned
+ORD51127,CUST1172,2025-04-06,Marketplace,Debit Card,Cancelled
+ORD51128,CUST1099,2025-04-06,Mobile App,Debit Card,Pending
+ORD51129,CUST1130,2025-04-08,Web,UPI,Pending
+ORD51130,CUST1077,2025-04-09,Mobile App,UPI,Delivered
+ORD51131,CUST1037,2025-04-09,Web,Credit Card,Delivered
+ORD51132,CUST1047,2025-04-10,Web,Credit Card,Delivered
+ORD51133,CUST1188,2025-04-11,Web,Debit Card,Delivered
+ORD51134,CUST1145,2025-04-11,Mobile App,Credit Card,Delivered
+ORD51135,CUST1028,2025-04-11,Web,Cash on Delivery,Delivered
+ORD51136,CUST1055,2025-04-13,Web,Credit Card,Shipped
+ORD51137,CUST1220,2025-04-14,Retail Store,Debit Card,Shipped
+ORD51138,CUST1046,2025-04-15,Marketplace,UPI,Cancelled
+ORD51139,CUST1257,2025-04-16,Marketplace,Net Banking,Delivered
+ORD51140,CUST1211,2025-04-17,Web,Debit Card,Pending
+ORD51141,CUST1200,2025-04-17,Marketplace,UPI,Delivered
+ORD51142,CUST1129,2025-04-18,Marketplace,Debit Card,Delivered
+ORD51143,CUST1052,2025-04-19,Mobile App,Debit Card,Delivered
+ORD51144,CUST1202,2025-04-20,Web,Net Banking,Pending
+ORD51145,CUST1137,2025-04-22,Web,UPI,Delivered
+ORD51146,CUST1141,2025-04-23,Mobile App,UPI,Delivered
+ORD51147,CUST1211,2025-04-24,Web,Cash on Delivery,Delivered
+ORD51148,CUST1152,2025-04-25,Marketplace,UPI,Delivered
+ORD51149,CUST1017,2025-04-25,Mobile App,Credit Card,Pending
+ORD51150,CUST1094,2025-04-26,Mobile App,UPI,Delivered
+ORD51151,CUST1189,2025-04-26,Marketplace,Cash on Delivery,Pending
+ORD51152,CUST1128,2025-04-26,Mobile App,Cash on Delivery,Cancelled
+ORD51153,CUST1057,2025-04-26,Web,UPI,Shipped
+ORD51154,CUST1145,2025-04-26,Web,UPI,Cancelled
+ORD51155,CUST1106,2025-04-27,Retail Store,Debit Card,Delivered
+ORD51156,CUST1103,2025-04-27,Web,UPI,Delivered
+ORD51157,CUST1072,2025-04-28,Web,Debit Card,Delivered
+ORD51158,CUST1248,2025-04-28,Mobile App,Debit Card,Delivered
+ORD51159,CUST1174,2025-04-29,Marketplace,Net Banking,Cancelled
+ORD51160,CUST1074,2025-04-30,Marketplace,Cash on Delivery,Delivered
+ORD51161,CUST1226,2025-05-01,Marketplace,Net Banking,Delivered
+ORD51162,CUST1067,2025-05-02,Marketplace,Cash on Delivery,Delivered
+ORD51163,CUST1080,2025-05-04,Web,Net Banking,Delivered
+ORD51164,CUST1104,2025-05-04,Web,Credit Card,Delivered
+ORD51165,CUST1287,2025-05-04,Mobile App,Net Banking,Delivered
+ORD51166,CUST1236,2025-05-04,Web,Debit Card,Delivered
+ORD51167,CUST1192,2025-05-05,Marketplace,UPI,Delivered
+ORD51168,CUST1255,2025-05-05,Web,Credit Card,Delivered
+ORD51169,CUST1258,2025-05-07,Web,UPI,Delivered
+ORD51170,CUST1170,2025-05-07,Retail Store,Debit Card,Shipped
+ORD51171,CUST1263,2025-05-07,Web,Credit Card,Returned
+ORD51172,CUST1109,2025-05-08,Mobile App,Credit Card,Delivered
+ORD51173,CUST1116,2025-05-08,Web,Debit Card,Shipped
+ORD51174,CUST1195,2025-05-11,Retail Store,Cash on Delivery,Delivered
+ORD51175,CUST1291,2025-05-11,Web,Debit Card,Delivered
+ORD51176,CUST1248,2025-05-11,Marketplace,Debit Card,Delivered
+ORD51177,CUST1290,2025-05-13,Marketplace,Debit Card,Pending
+ORD51178,CUST1073,2025-05-13,Web,UPI,Delivered
+ORD51179,CUST1132,2025-05-14,Web,Net Banking,Pending
+ORD51180,CUST1201,2025-05-15,Web,Debit Card,Delivered
+ORD51181,CUST1281,2025-05-16,Web,UPI,Returned
+ORD51182,CUST1213,2025-05-16,Marketplace,Credit Card,Delivered
+ORD51183,CUST1274,2025-05-17,Mobile App,Net Banking,Delivered
+ORD51184,CUST1118,2025-05-17,Marketplace,Net Banking,Delivered
+ORD51185,CUST1188,2025-05-17,Mobile App,Cash on Delivery,Delivered
+ORD51186,CUST1044,2025-05-19,Mobile App,UPI,Delivered
+ORD51187,CUST1076,2025-05-20,Web,UPI,Shipped
+ORD51188,CUST1183,2025-05-20,Web,Credit Card,Pending
+ORD51189,CUST1073,2025-05-21,Retail Store,Credit Card,Returned
+ORD51190,CUST1064,2025-05-23,Retail Store,Credit Card,Delivered
+ORD51191,CUST1033,2025-05-23,Mobile App,Net Banking,Delivered
+ORD51192,CUST1111,2025-05-24,Marketplace,Cash on Delivery,Delivered
+ORD51193,CUST1084,2025-05-24,Marketplace,Credit Card,Returned
+ORD51194,CUST1164,2025-05-25,Web,Credit Card,Delivered
+ORD51195,CUST1174,2025-05-25,Web,Net Banking,Delivered
+ORD51196,CUST1289,2025-05-26,Marketplace,UPI,Delivered
+ORD51197,CUST1184,2025-05-26,Retail Store,Credit Card,Shipped
+ORD51198,CUST1044,2025-05-27,Retail Store,Debit Card,Delivered
+ORD51199,CUST1125,2025-05-28,Web,Credit Card,Delivered
+ORD51200,CUST1023,2025-05-28,Web,UPI,Returned
+ORD51201,CUST1164,2025-05-28,Web,Debit Card,Delivered
+ORD51202,CUST1162,2025-05-29,Web,Debit Card,Delivered
+ORD51203,CUST1257,2025-05-29,Retail Store,Cash on Delivery,Delivered
+ORD51204,CUST1283,2025-05-30,Web,Net Banking,Delivered
+ORD51205,CUST1281,2025-05-30,Marketplace,Credit Card,Delivered
+ORD51206,CUST1014,2025-05-30,Web,Credit Card,Pending
+ORD51207,CUST1013,2025-05-30,Retail Store,Net Banking,Delivered
+ORD51208,CUST1193,2025-05-31,Mobile App,UPI,Delivered
+ORD51209,CUST1287,2025-06-01,Marketplace,Credit Card,Delivered
+ORD51210,CUST1009,2025-06-02,Mobile App,Credit Card,Delivered
+ORD51211,CUST1241,2025-06-02,Marketplace,UPI,Delivered
+ORD51212,CUST1166,2025-06-03,Web,UPI,Delivered
+ORD51213,CUST1169,2025-06-03,Web,UPI,Delivered
+ORD51214,CUST1036,2025-06-06,Web,UPI,Delivered
+ORD51215,CUST1146,2025-06-07,Marketplace,Debit Card,Delivered
+ORD51216,CUST1198,2025-06-07,Retail Store,UPI,Shipped
+ORD51217,CUST1212,2025-06-08,Marketplace,Debit Card,Delivered
+ORD51218,CUST1109,2025-06-08,Mobile App,UPI,Pending
+ORD51219,CUST1208,2025-06-08,Web,UPI,Delivered
+ORD51220,CUST1197,2025-06-10,Retail Store,Cash on Delivery,Delivered
+ORD51221,CUST1217,2025-06-10,Mobile App,Net Banking,Delivered
+ORD51222,CUST1078,2025-06-13,Mobile App,Debit Card,Pending
+ORD51223,CUST1280,2025-06-13,Marketplace,Credit Card,Delivered
+ORD51224,CUST1023,2025-06-14,Web,Cash on Delivery,Shipped
+ORD51225,CUST1010,2025-06-14,Mobile App,Net Banking,Delivered
+ORD51226,CUST1055,2025-06-15,Marketplace,UPI,Delivered
+ORD51227,CUST1021,2025-06-15,Marketplace,Credit Card,Delivered
+ORD51228,CUST1083,2025-06-15,Web,Credit Card,Delivered
+ORD51229,CUST1157,2025-06-15,Marketplace,Credit Card,Delivered
+ORD51230,CUST1050,2025-06-16,Retail Store,Credit Card,Delivered
+ORD51231,CUST1092,2025-06-16,Mobile App,UPI,Delivered
+ORD51232,CUST1060,2025-06-16,Web,UPI,Cancelled
+ORD51233,CUST1261,2025-06-16,Retail Store,UPI,Delivered
+ORD51234,CUST1164,2025-06-17,Web,Credit Card,Shipped
+ORD51235,CUST1184,2025-06-17,Web,Credit Card,Delivered
+ORD51236,CUST1132,2025-06-17,Marketplace,Credit Card,Returned
+ORD51237,CUST1167,2025-06-18,Mobile App,Credit Card,Delivered
+ORD51238,CUST1248,2025-06-19,Web,UPI,Cancelled
+ORD51239,CUST1296,2025-06-20,Marketplace,Net Banking,Delivered
+ORD51240,CUST1150,2025-06-20,Mobile App,Credit Card,Delivered
+ORD51241,CUST1141,2025-06-21,Web,Debit Card,Delivered
+ORD51242,CUST1162,2025-06-22,Web,Cash on Delivery,Delivered
+ORD51243,CUST1157,2025-06-23,Marketplace,Net Banking,Delivered
+ORD51244,CUST1214,2025-06-24,Marketplace,Credit Card,Cancelled
+ORD51245,CUST1066,2025-06-24,Web,Credit Card,Returned
+ORD51246,CUST1257,2025-06-25,Mobile App,UPI,Delivered
+ORD51247,CUST1019,2025-06-25,Marketplace,Cash on Delivery,Delivered
+ORD51248,CUST1176,2025-06-27,Web,Cash on Delivery,Delivered
+ORD51249,CUST1292,2025-06-30,Web,Debit Card,Delivered
+ORD51250,CUST1012,2025-07-03,Mobile App,Debit Card,Delivered
+ORD51251,CUST1267,2025-07-03,Retail Store,Credit Card,Delivered
+ORD51252,CUST1138,2025-07-03,Marketplace,UPI,Pending
+ORD51253,CUST1254,2025-07-04,Web,UPI,Pending
+ORD51254,CUST1010,2025-07-05,Marketplace,Credit Card,Delivered
+ORD51255,CUST1262,2025-07-05,Mobile App,UPI,Delivered
+ORD51256,CUST1182,2025-07-07,Web,UPI,Shipped
+ORD51257,CUST1206,2025-07-07,Web,Cash on Delivery,Shipped
+ORD51258,CUST1020,2025-07-07,Web,Credit Card,Delivered
+ORD51259,CUST1120,2025-07-09,Mobile App,UPI,Delivered
+ORD51260,CUST1162,2025-07-10,Web,Credit Card,Delivered
+ORD51261,CUST1066,2025-07-11,Web,Credit Card,Delivered
+ORD51262,CUST1045,2025-07-12,Marketplace,UPI,Delivered
+ORD51263,CUST1199,2025-07-12,Marketplace,UPI,Pending
+ORD51264,CUST1257,2025-07-12,Mobile App,Cash on Delivery,Delivered
+ORD51265,CUST1057,2025-07-12,Retail Store,UPI,Delivered
+ORD51266,CUST1029,2025-07-13,Mobile App,UPI,Delivered
+ORD51267,CUST1079,2025-07-14,Retail Store,Credit Card,Pending
+ORD51268,CUST1198,2025-07-14,Marketplace,Credit Card,Delivered
+ORD51269,CUST1149,2025-07-14,Mobile App,Credit Card,Delivered
+ORD51270,CUST1212,2025-07-15,Marketplace,UPI,Delivered
+ORD51271,CUST1282,2025-07-15,Marketplace,UPI,Delivered
+ORD51272,CUST1083,2025-07-17,Marketplace,Credit Card,Pending
+ORD51273,CUST1201,2025-07-18,Marketplace,UPI,Delivered
+ORD51274,CUST1178,2025-07-19,Web,Credit Card,Delivered
+ORD51275,CUST1257,2025-07-19,Web,Debit Card,Delivered
+ORD51276,CUST1099,2025-07-20,Web,Credit Card,Delivered
+ORD51277,CUST1034,2025-07-22,Retail Store,UPI,Delivered
+ORD51278,CUST1078,2025-07-23,Retail Store,Cash on Delivery,Delivered
+ORD51279,CUST1004,2025-07-23,Mobile App,Credit Card,Delivered
+ORD51280,CUST1078,2025-07-24,Mobile App,Credit Card,Shipped
+ORD51281,CUST1256,2025-07-24,Web,UPI,Pending
+ORD51282,CUST1005,2025-07-25,Retail Store,Net Banking,Delivered
+ORD51283,CUST1054,2025-07-25,Mobile App,UPI,Shipped
+ORD51284,CUST1202,2025-07-26,Retail Store,Credit Card,Pending
+ORD51285,CUST1073,2025-07-26,Mobile App,Net Banking,Cancelled
+ORD51286,CUST1022,2025-07-26,Mobile App,Net Banking,Delivered
+ORD51287,CUST1158,2025-07-27,Marketplace,UPI,Pending
+ORD51288,CUST1060,2025-07-30,Marketplace,Net Banking,Delivered
+ORD51289,CUST1203,2025-07-30,Marketplace,Debit Card,Delivered
+ORD51290,CUST1027,2025-07-30,Web,UPI,Shipped
+ORD51291,CUST1013,2025-07-30,Mobile App,UPI,Delivered
+ORD51292,CUST1242,2025-07-30,Retail Store,Net Banking,Returned
+ORD51293,CUST1185,2025-08-01,Mobile App,UPI,Cancelled
+ORD51294,CUST1159,2025-08-01,Marketplace,Credit Card,Delivered
+ORD51295,CUST1178,2025-08-01,Mobile App,Debit Card,Delivered
+ORD51296,CUST1141,2025-08-02,Marketplace,Credit Card,Cancelled
+ORD51297,CUST1170,2025-08-03,Web,Debit Card,Delivered
+ORD51298,CUST1175,2025-08-03,Web,UPI,Delivered
+ORD51299,CUST1034,2025-08-03,Web,Debit Card,Delivered
+ORD51300,CUST1243,2025-08-04,Mobile App,UPI,Delivered
+ORD51301,CUST1199,2025-08-05,Web,Debit Card,Delivered
+ORD51302,CUST1188,2025-08-05,Retail Store,UPI,Delivered
+ORD51303,CUST1297,2025-08-06,Retail Store,Credit Card,Cancelled
+ORD51304,CUST1154,2025-08-06,Web,Debit Card,Delivered
+ORD51305,CUST1270,2025-08-06,Marketplace,Debit Card,Delivered
+ORD51306,CUST1094,2025-08-06,Mobile App,UPI,Delivered
+ORD51307,CUST1024,2025-08-07,Marketplace,Cash on Delivery,Delivered
+ORD51308,CUST1156,2025-08-07,Web,Net Banking,Delivered
+ORD51309,CUST1256,2025-08-10,Marketplace,Cash on Delivery,Pending
+ORD51310,CUST1297,2025-08-10,Web,Credit Card,Delivered
+ORD51311,CUST1197,2025-08-11,Mobile App,Cash on Delivery,Delivered
+ORD51312,CUST1171,2025-08-12,Web,Debit Card,Delivered
+ORD51313,CUST1263,2025-08-12,Web,Cash on Delivery,Returned
+ORD51314,CUST1144,2025-08-13,Web,UPI,Delivered
+ORD51315,CUST1255,2025-08-13,Mobile App,UPI,Delivered
+ORD51316,CUST1267,2025-08-13,Mobile App,Debit Card,Delivered
+ORD51317,CUST1247,2025-08-13,Mobile App,Net Banking,Delivered
+ORD51318,CUST1017,2025-08-14,Marketplace,UPI,Delivered
+ORD51319,CUST1076,2025-08-14,Marketplace,UPI,Delivered
+ORD51320,CUST1019,2025-08-14,Retail Store,Cash on Delivery,Delivered
+ORD51321,CUST1139,2025-08-15,Mobile App,Net Banking,Delivered
+ORD51322,CUST1237,2025-08-16,Web,Credit Card,Pending
+ORD51323,CUST1276,2025-08-16,Mobile App,Credit Card,Delivered
+ORD51324,CUST1283,2025-08-16,Mobile App,UPI,Delivered
+ORD51325,CUST1019,2025-08-17,Web,Credit Card,Delivered
+ORD51326,CUST1016,2025-08-18,Web,UPI,Delivered
+ORD51327,CUST1162,2025-08-19,Web,Net Banking,Delivered
+ORD51328,CUST1008,2025-08-19,Mobile App,Credit Card,Delivered
+ORD51329,CUST1242,2025-08-20,Web,Credit Card,Delivered
+ORD51330,CUST1003,2025-08-20,Mobile App,Debit Card,Delivered
+ORD51331,CUST1156,2025-08-20,Mobile App,Credit Card,Delivered
+ORD51332,CUST1174,2025-08-20,Web,Credit Card,Pending
+ORD51333,CUST1128,2025-08-21,Web,Debit Card,Delivered
+ORD51334,CUST1042,2025-08-22,Retail Store,Net Banking,Delivered
+ORD51335,CUST1242,2025-08-22,Mobile App,UPI,Delivered
+ORD51336,CUST1169,2025-08-24,Web,Debit Card,Delivered
+ORD51337,CUST1225,2025-08-24,Mobile App,Credit Card,Delivered
+ORD51338,CUST1200,2025-08-24,Marketplace,Credit Card,Delivered
+ORD51339,CUST1158,2025-08-26,Web,Debit Card,Delivered
+ORD51340,CUST1005,2025-08-26,Mobile App,Net Banking,Returned
+ORD51341,CUST1135,2025-08-26,Web,UPI,Delivered
+ORD51342,CUST1262,2025-08-27,Mobile App,UPI,Cancelled
+ORD51343,CUST1065,2025-08-30,Marketplace,Credit Card,Delivered
+ORD51344,CUST1076,2025-08-30,Web,UPI,Delivered
+ORD51345,CUST1269,2025-08-31,Web,UPI,Cancelled
+ORD51346,CUST1167,2025-08-31,Web,Debit Card,Shipped
+ORD51347,CUST1185,2025-08-31,Mobile App,UPI,Cancelled
+ORD51348,CUST1107,2025-08-31,Web,Credit Card,Delivered
+ORD51349,CUST1081,2025-08-31,Mobile App,Credit Card,Delivered
+ORD51350,CUST1103,2025-09-01,Marketplace,UPI,Delivered
+ORD51351,CUST1291,2025-09-01,Marketplace,Net Banking,Delivered
+ORD51352,CUST1122,2025-09-03,Mobile App,Net Banking,Delivered
+ORD51353,CUST1169,2025-09-04,Web,Net Banking,Delivered
+ORD51354,CUST1002,2025-09-05,Mobile App,Debit Card,Cancelled
+ORD51355,CUST1258,2025-09-06,Web,Net Banking,Delivered
+ORD51356,CUST1129,2025-09-06,Mobile App,Net Banking,Shipped
+ORD51357,CUST1227,2025-09-08,Web,Net Banking,Delivered
+ORD51358,CUST1080,2025-09-08,Web,Net Banking,Returned
+ORD51359,CUST1191,2025-09-09,Retail Store,Debit Card,Delivered
+ORD51360,CUST1108,2025-09-09,Marketplace,Cash on Delivery,Delivered
+ORD51361,CUST1096,2025-09-09,Web,Credit Card,Delivered
+ORD51362,CUST1049,2025-09-09,Marketplace,Net Banking,Delivered
+ORD51363,CUST1211,2025-09-10,Web,Credit Card,Delivered
+ORD51364,CUST1101,2025-09-10,Web,Credit Card,Shipped
+ORD51365,CUST1036,2025-09-10,Retail Store,Cash on Delivery,Pending
+ORD51366,CUST1210,2025-09-11,Retail Store,UPI,Delivered
+ORD51367,CUST1209,2025-09-11,Mobile App,UPI,Delivered
+ORD51368,CUST1296,2025-09-12,Marketplace,Credit Card,Pending
+ORD51369,CUST1266,2025-09-13,Mobile App,UPI,Delivered
+ORD51370,CUST1060,2025-09-13,Marketplace,Credit Card,Delivered
+ORD51371,CUST1016,2025-09-14,Web,Net Banking,Delivered
+ORD51372,CUST1261,2025-09-15,Web,Cash on Delivery,Delivered
+ORD51373,CUST1291,2025-09-16,Web,Net Banking,Delivered
+ORD51374,CUST1185,2025-09-16,Mobile App,Net Banking,Shipped
+ORD51375,CUST1184,2025-09-17,Mobile App,UPI,Delivered
+ORD51376,CUST1031,2025-09-18,Retail Store,UPI,Delivered
+ORD51377,CUST1165,2025-09-18,Web,Debit Card,Pending
+ORD51378,CUST1005,2025-09-19,Marketplace,UPI,Delivered
+ORD51379,CUST1232,2025-09-19,Retail Store,UPI,Delivered
+ORD51380,CUST1266,2025-09-21,Marketplace,UPI,Delivered
+ORD51381,CUST1007,2025-09-21,Web,Cash on Delivery,Delivered
+ORD51382,CUST1071,2025-09-22,Web,Debit Card,Cancelled
+ORD51383,CUST1296,2025-09-23,Web,Net Banking,Delivered
+ORD51384,CUST1032,2025-09-23,Web,Credit Card,Delivered
+ORD51385,CUST1238,2025-09-24,Marketplace,Debit Card,Delivered
+ORD51386,CUST1197,2025-09-25,Web,UPI,Pending
+ORD51387,CUST1195,2025-09-25,Mobile App,Net Banking,Delivered
+ORD51388,CUST1212,2025-09-25,Web,UPI,Pending
+ORD51389,CUST1085,2025-09-25,Mobile App,Debit Card,Delivered
+ORD51390,CUST1269,2025-09-25,Web,Credit Card,Cancelled
+ORD51391,CUST1146,2025-09-26,Marketplace,Credit Card,Delivered
+ORD51392,CUST1151,2025-09-27,Mobile App,UPI,Pending
+ORD51393,CUST1225,2025-09-27,Web,Credit Card,Returned
+ORD51394,CUST1094,2025-09-27,Marketplace,Net Banking,Delivered
+ORD51395,CUST1017,2025-09-27,Web,Credit Card,Delivered
+ORD51396,CUST1096,2025-09-28,Mobile App,Credit Card,Returned
+ORD51397,CUST1192,2025-09-28,Mobile App,UPI,Shipped
+ORD51398,CUST1062,2025-09-29,Web,Credit Card,Delivered
+ORD51399,CUST1233,2025-09-29,Mobile App,Debit Card,Returned
+ORD51400,CUST1191,2025-09-30,Marketplace,UPI,Delivered
+ORD51401,CUST1202,2025-09-30,Marketplace,UPI,Delivered
+ORD51402,CUST1283,2025-09-30,Marketplace,Net Banking,Delivered
+ORD51403,CUST1072,2025-10-01,Mobile App,Cash on Delivery,Delivered
+ORD51404,CUST1026,2025-10-02,Marketplace,UPI,Delivered
+ORD51405,CUST1104,2025-10-02,Web,Credit Card,Delivered
+ORD51406,CUST1116,2025-10-03,Retail Store,UPI,Delivered
+ORD51407,CUST1004,2025-10-03,Web,Debit Card,Pending
+ORD51408,CUST1106,2025-10-03,Marketplace,Cash on Delivery,Delivered
+ORD51409,CUST1299,2025-10-03,Marketplace,Credit Card,Delivered
+ORD51410,CUST1025,2025-10-04,Mobile App,Credit Card,Delivered
+ORD51411,CUST1280,2025-10-04,Marketplace,UPI,Delivered
+ORD51412,CUST1179,2025-10-04,Retail Store,UPI,Delivered
+ORD51413,CUST1281,2025-10-07,Web,Debit Card,Delivered
+ORD51414,CUST1295,2025-10-07,Mobile App,Net Banking,Delivered
+ORD51415,CUST1176,2025-10-07,Web,Debit Card,Delivered
+ORD51416,CUST1084,2025-10-07,Mobile App,UPI,Delivered
+ORD51417,CUST1237,2025-10-08,Web,UPI,Delivered
+ORD51418,CUST1219,2025-10-08,Mobile App,Cash on Delivery,Delivered
+ORD51419,CUST1170,2025-10-08,Web,Credit Card,Returned
+ORD51420,CUST1271,2025-10-09,Mobile App,Credit Card,Delivered
+ORD51421,CUST1272,2025-10-10,Marketplace,Credit Card,Delivered
+ORD51422,CUST1082,2025-10-10,Web,Debit Card,Delivered
+ORD51423,CUST1043,2025-10-10,Retail Store,UPI,Delivered
+ORD51424,CUST1276,2025-10-11,Mobile App,Net Banking,Delivered
+ORD51425,CUST1009,2025-10-11,Web,Net Banking,Delivered
+ORD51426,CUST1225,2025-10-11,Retail Store,Debit Card,Delivered
+ORD51427,CUST1220,2025-10-11,Web,UPI,Pending
+ORD51428,CUST1194,2025-10-12,Mobile App,UPI,Delivered
+ORD51429,CUST1145,2025-10-12,Retail Store,Credit Card,Delivered
+ORD51430,CUST1059,2025-10-12,Retail Store,UPI,Delivered
+ORD51431,CUST1166,2025-10-13,Mobile App,Credit Card,Pending
+ORD51432,CUST1084,2025-10-13,Web,Cash on Delivery,Delivered
+ORD51433,CUST1259,2025-10-13,Mobile App,Debit Card,Pending
+ORD51434,CUST1031,2025-10-13,Web,UPI,Delivered
+ORD51435,CUST1111,2025-10-13,Web,UPI,Delivered
+ORD51436,CUST1269,2025-10-14,Web,UPI,Delivered
+ORD51437,CUST1191,2025-10-14,Web,Net Banking,Delivered
+ORD51438,CUST1243,2025-10-14,Web,Cash on Delivery,Shipped
+ORD51439,CUST1043,2025-10-14,Marketplace,Credit Card,Delivered
+ORD51440,CUST1026,2025-10-14,Web,Net Banking,Shipped
+ORD51441,CUST1150,2025-10-15,Mobile App,UPI,Delivered
+ORD51442,CUST1160,2025-10-15,Web,Cash on Delivery,Shipped
+ORD51443,CUST1247,2025-10-15,Mobile App,Credit Card,Delivered
+ORD51444,CUST1064,2025-10-16,Mobile App,Net Banking,Delivered
+ORD51445,CUST1170,2025-10-17,Mobile App,Credit Card,Delivered
+ORD51446,CUST1230,2025-10-17,Marketplace,UPI,Pending
+ORD51447,CUST1139,2025-10-18,Mobile App,Cash on Delivery,Delivered
+ORD51448,CUST1172,2025-10-18,Marketplace,Net Banking,Delivered
+ORD51449,CUST1283,2025-10-19,Mobile App,Credit Card,Delivered
+ORD51450,CUST1284,2025-10-20,Marketplace,Cash on Delivery,Delivered
+ORD51451,CUST1284,2025-10-21,Marketplace,UPI,Delivered
+ORD51452,CUST1219,2025-10-21,Marketplace,UPI,Delivered
+ORD51453,CUST1180,2025-10-21,Web,Cash on Delivery,Delivered
+ORD51454,CUST1031,2025-10-22,Mobile App,Net Banking,Pending
+ORD51455,CUST1105,2025-10-22,Web,Credit Card,Delivered
+ORD51456,CUST1112,2025-10-22,Marketplace,UPI,Cancelled
+ORD51457,CUST1234,2025-10-22,Mobile App,Debit Card,Delivered
+ORD51458,CUST1173,2025-10-22,Marketplace,UPI,Delivered
+ORD51459,CUST1071,2025-10-23,Web,Credit Card,Delivered
+ORD51460,CUST1274,2025-10-23,Web,UPI,Delivered
+ORD51461,CUST1024,2025-10-24,Mobile App,Credit Card,Delivered
+ORD51462,CUST1112,2025-10-24,Marketplace,Credit Card,Shipped
+ORD51463,CUST1177,2025-10-25,Web,Credit Card,Delivered
+ORD51464,CUST1057,2025-10-26,Web,UPI,Delivered
+ORD51465,CUST1036,2025-10-26,Web,UPI,Delivered
+ORD51466,CUST1085,2025-10-26,Web,Credit Card,Returned
+ORD51467,CUST1068,2025-10-26,Web,Debit Card,Delivered
+ORD51468,CUST1075,2025-10-26,Web,Net Banking,Delivered
+ORD51469,CUST1095,2025-10-27,Web,Debit Card,Delivered
+ORD51470,CUST1047,2025-10-27,Web,Credit Card,Shipped
+ORD51471,CUST1149,2025-10-28,Web,Net Banking,Delivered
+ORD51472,CUST1104,2025-10-29,Web,Credit Card,Delivered
+ORD51473,CUST1128,2025-10-29,Web,UPI,Delivered
+ORD51474,CUST1075,2025-10-29,Marketplace,UPI,Delivered
+ORD51475,CUST1215,2025-10-29,Mobile App,Net Banking,Delivered
+ORD51476,CUST1154,2025-10-29,Mobile App,UPI,Delivered
+ORD51477,CUST1168,2025-10-30,Mobile App,Debit Card,Delivered
+ORD51478,CUST1269,2025-10-31,Web,Net Banking,Delivered
+ORD51479,CUST1223,2025-10-31,Web,UPI,Delivered
+ORD51480,CUST1287,2025-11-01,Web,Debit Card,Delivered
+ORD51481,CUST1016,2025-11-01,Retail Store,Credit Card,Delivered
+ORD51482,CUST1048,2025-11-02,Marketplace,Debit Card,Delivered
+ORD51483,CUST1246,2025-11-03,Mobile App,UPI,Delivered
+ORD51484,CUST1171,2025-11-04,Mobile App,Credit Card,Delivered
+ORD51485,CUST1297,2025-11-04,Marketplace,Debit Card,Cancelled
+ORD51486,CUST1203,2025-11-04,Marketplace,Credit Card,Delivered
+ORD51487,CUST1251,2025-11-04,Web,Credit Card,Delivered
+ORD51488,CUST1046,2025-11-04,Marketplace,Credit Card,Delivered
+ORD51489,CUST1023,2025-11-05,Mobile App,UPI,Delivered
+ORD51490,CUST1160,2025-11-06,Web,Net Banking,Delivered
+ORD51491,CUST1162,2025-11-07,Web,UPI,Delivered
+ORD51492,CUST1061,2025-11-08,Web,UPI,Delivered
+ORD51493,CUST1264,2025-11-08,Mobile App,Cash on Delivery,Delivered
+ORD51494,CUST1110,2025-11-08,Retail Store,Cash on Delivery,Delivered
+ORD51495,CUST1129,2025-11-09,Marketplace,Debit Card,Delivered
+ORD51496,CUST1098,2025-11-09,Web,UPI,Delivered
+ORD51497,CUST1152,2025-11-10,Web,UPI,Delivered
+ORD51498,CUST1245,2025-11-10,Web,Debit Card,Delivered
+ORD51499,CUST1136,2025-11-10,Web,Debit Card,Shipped
+ORD51500,CUST1071,2025-11-10,Web,Cash on Delivery,Delivered
+ORD51501,CUST1201,2025-11-10,Marketplace,UPI,Delivered
+ORD51502,CUST1163,2025-11-10,Web,UPI,Delivered
+ORD51503,CUST1058,2025-11-11,Mobile App,UPI,Shipped
+ORD51504,CUST1176,2025-11-11,Web,Debit Card,Delivered
+ORD51505,CUST1070,2025-11-11,Retail Store,Cash on Delivery,Delivered
+ORD51506,CUST1099,2025-11-13,Mobile App,UPI,Delivered
+ORD51507,CUST1042,2025-11-14,Web,UPI,Delivered
+ORD51508,CUST1279,2025-11-14,Marketplace,Net Banking,Delivered
+ORD51509,CUST1215,2025-11-15,Web,UPI,Delivered
+ORD51510,CUST1100,2025-11-15,Mobile App,UPI,Delivered
+ORD51511,CUST1176,2025-11-15,Web,Credit Card,Cancelled
+ORD51512,CUST1098,2025-11-15,Mobile App,Credit Card,Cancelled
+ORD51513,CUST1286,2025-11-16,Web,UPI,Pending
+ORD51514,CUST1208,2025-11-16,Web,Credit Card,Delivered
+ORD51515,CUST1014,2025-11-16,Web,Credit Card,Pending
+ORD51516,CUST1147,2025-11-17,Retail Store,Cash on Delivery,Delivered
+ORD51517,CUST1121,2025-11-17,Web,Net Banking,Shipped
+ORD51518,CUST1218,2025-11-17,Web,UPI,Delivered
+ORD51519,CUST1292,2025-11-17,Mobile App,Cash on Delivery,Pending
+ORD51520,CUST1046,2025-11-18,Web,Credit Card,Delivered
+ORD51521,CUST1048,2025-11-18,Web,UPI,Delivered
+ORD51522,CUST1045,2025-11-18,Mobile App,Debit Card,Delivered
+ORD51523,CUST1283,2025-11-19,Mobile App,Cash on Delivery,Delivered
+ORD51524,CUST1221,2025-11-20,Mobile App,Debit Card,Delivered
+ORD51525,CUST1141,2025-11-21,Web,Credit Card,Delivered
+ORD51526,CUST1117,2025-11-21,Mobile App,UPI,Delivered
+ORD51527,CUST1176,2025-11-22,Marketplace,Credit Card,Delivered
+ORD51528,CUST1258,2025-11-22,Web,Credit Card,Delivered
+ORD51529,CUST1018,2025-11-22,Web,Debit Card,Delivered
+ORD51530,CUST1071,2025-11-22,Mobile App,Credit Card,Delivered
+ORD51531,CUST1196,2025-11-23,Mobile App,Credit Card,Delivered
+ORD51532,CUST1073,2025-11-24,Marketplace,Credit Card,Delivered
+ORD51533,CUST1291,2025-11-24,Web,Net Banking,Delivered
+ORD51534,CUST1259,2025-11-25,Mobile App,Net Banking,Cancelled
+ORD51535,CUST1245,2025-11-27,Web,Credit Card,Cancelled
+ORD51536,CUST1109,2025-11-27,Web,UPI,Delivered
+ORD51537,CUST1023,2025-11-28,Marketplace,Cash on Delivery,Delivered
+ORD51538,CUST1033,2025-11-28,Web,Credit Card,Delivered
+ORD51539,CUST1166,2025-11-28,Marketplace,Credit Card,Delivered
+ORD51540,CUST1067,2025-11-29,Marketplace,Net Banking,Delivered
+ORD51541,CUST1228,2025-11-29,Retail Store,Credit Card,Delivered
+ORD51542,CUST1231,2025-11-29,Web,UPI,Delivered
+ORD51543,CUST1070,2025-12-01,Web,Credit Card,Delivered
+ORD51544,CUST1080,2025-12-01,Web,Credit Card,Delivered
+ORD51545,CUST1280,2025-12-01,Web,Net Banking,Delivered
+ORD51546,CUST1167,2025-12-02,Retail Store,Debit Card,Pending
+ORD51547,CUST1022,2025-12-03,Mobile App,UPI,Delivered
+ORD51548,CUST1251,2025-12-03,Web,Credit Card,Delivered
+ORD51549,CUST1247,2025-12-03,Web,Cash on Delivery,Delivered
+ORD51550,CUST1184,2025-12-04,Marketplace,Credit Card,Cancelled
+ORD51551,CUST1068,2025-12-04,Mobile App,Credit Card,Cancelled
+ORD51552,CUST1226,2025-12-06,Web,UPI,Delivered
+ORD51553,CUST1122,2025-12-07,Mobile App,Credit Card,Pending
+ORD51554,CUST1294,2025-12-07,Web,Credit Card,Shipped
+ORD51555,CUST1258,2025-12-07,Web,Cash on Delivery,Delivered
+ORD51556,CUST1090,2025-12-07,Web,Credit Card,Delivered
+ORD51557,CUST1267,2025-12-08,Retail Store,Debit Card,Cancelled
+ORD51558,CUST1263,2025-12-08,Mobile App,UPI,Delivered
+ORD51559,CUST1074,2025-12-09,Mobile App,Credit Card,Delivered
+ORD51560,CUST1166,2025-12-10,Web,Credit Card,Delivered
+ORD51561,CUST1217,2025-12-10,Web,Net Banking,Delivered
+ORD51562,CUST1061,2025-12-10,Mobile App,UPI,Delivered
+ORD51563,CUST1256,2025-12-11,Marketplace,Credit Card,Delivered
+ORD51564,CUST1040,2025-12-11,Retail Store,UPI,Delivered
+ORD51565,CUST1217,2025-12-11,Web,Cash on Delivery,Pending
+ORD51566,CUST1099,2025-12-13,Web,Debit Card,Shipped
+ORD51567,CUST1286,2025-12-13,Mobile App,Net Banking,Delivered
+ORD51568,CUST1042,2025-12-14,Web,Cash on Delivery,Delivered
+ORD51569,CUST1104,2025-12-14,Marketplace,Credit Card,Delivered
+ORD51570,CUST1232,2025-12-15,Web,UPI,Delivered
+ORD51571,CUST1115,2025-12-16,Web,Debit Card,Delivered
+ORD51572,CUST1168,2025-12-16,Mobile App,UPI,Returned
+ORD51573,CUST1083,2025-12-17,Mobile App,UPI,Delivered
+ORD51574,CUST1014,2025-12-18,Web,Debit Card,Cancelled
+ORD51575,CUST1006,2025-12-18,Web,Cash on Delivery,Delivered
+ORD51576,CUST1264,2025-12-19,Marketplace,Debit Card,Shipped
+ORD51577,CUST1242,2025-12-19,Web,Debit Card,Delivered
+ORD51578,CUST1179,2025-12-19,Marketplace,UPI,Pending
+ORD51579,CUST1204,2025-12-21,Web,Net Banking,Delivered
+ORD51580,CUST1133,2025-12-21,Web,Credit Card,Pending
+ORD51581,CUST1159,2025-12-22,Mobile App,Credit Card,Pending
+ORD51582,CUST1043,2025-12-23,Retail Store,Credit Card,Delivered
+ORD51583,CUST1029,2025-12-23,Mobile App,Net Banking,Delivered
+ORD51584,CUST1141,2025-12-23,Mobile App,Cash on Delivery,Delivered
+ORD51585,CUST1297,2025-12-23,Mobile App,Debit Card,Delivered
+ORD51586,CUST1276,2025-12-24,Web,Credit Card,Delivered
+ORD51587,CUST1161,2025-12-24,Web,Net Banking,Delivered
+ORD51588,CUST1176,2025-12-24,Retail Store,UPI,Delivered
+ORD51589,CUST1248,2025-12-25,Retail Store,Debit Card,Cancelled
+ORD51590,CUST1138,2025-12-26,Web,UPI,Shipped
+ORD51591,CUST1114,2025-12-27,Retail Store,Credit Card,Delivered
+ORD51592,CUST1183,2025-12-27,Web,UPI,Delivered
+ORD51593,CUST1154,2025-12-28,Marketplace,Credit Card,Delivered
+ORD51594,CUST1166,2025-12-28,Web,UPI,Cancelled
+ORD51595,CUST1011,2025-12-29,Mobile App,UPI,Delivered
+ORD51596,CUST1188,2025-12-29,Mobile App,UPI,Delivered
+ORD51597,CUST1118,2025-12-29,Mobile App,Net Banking,Shipped
+ORD51598,CUST1060,2025-12-29,Retail Store,Cash on Delivery,Delivered
+ORD51599,CUST1236,2025-12-30,Web,Debit Card,Delivered
+ORD51600,CUST1045,2025-12-31,Web,UPI,Cancelled

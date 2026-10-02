@@ -1,0 +1,21 @@
+{
+  "raw_rows": {
+    "customers": 309,
+    "products": 20,
+    "orders": 1600,
+    "order_items": 4000
+  },
+  "labels_standardised": 17,
+  "duplicate_customers_removed": 9,
+  "missing_values": {
+    "city": 12,
+    "email": 9
+  },
+  "orphan_order_items_removed": 0,
+  "clean_rows": {
+    "customers": 300,
+    "products": 20,
+    "orders": 1600,
+    "order_items": 4000
+  }
+}
